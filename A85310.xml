@@ -1,0 +1,1329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fire from heaven, falling upon the present army and the churches: or, Two words from the Lord to both· Held forth to the understanding of those, that make not flesh their arm, and whose hope the Lord is, that cease from man (a piece of earth) whose breath is in his nostrils. As also to the terror and astonishment of all those, who lean upon the broken staff of Egypt, and trust in horses, and strengthen themselves in the strength of Pharaoh, and joy in the shadow of men; and cry to themselves, the temple of the Lord, the temple of the Lord. / By a man of their councel.</title>
+            <author>Man of their councel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85310</idno>
+            <idno type="STC">Wing F954</idno>
+            <idno type="STC">Thomason E572_12</idno>
+            <idno type="STC">ESTC R202075</idno>
+            <idno type="EEBO-CITATION">99862488</idno>
+            <idno type="PROQUEST">99862488</idno>
+            <idno type="VID">114649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E572[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fire from heaven, falling upon the present army and the churches: or, Two words from the Lord to both· Held forth to the understanding of those, that make not flesh their arm, and whose hope the Lord is, that cease from man (a piece of earth) whose breath is in his nostrils. As also to the terror and astonishment of all those, who lean upon the broken staff of Egypt, and trust in horses, and strengthen themselves in the strength of Pharaoh, and joy in the shadow of men; and cry to themselves, the temple of the Lord, the temple of the Lord. / By a man of their councel.</title>
+                  <author>Man of their councel.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the day of battel, and year of slaughter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber"; "September 1st.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114649:1" rendition="simple:additions"/>
+            <p>Fire from Heaven, Falling upon the Preſent Army and Churches:
+OR, TWO WORDS FROM THE LORD To Both. Held forth to the Underſtanding of
+thoſe, that make not fleſh their arm, and whoſe hope the Lord is, that
+ceaſe from Man (a piece of earth) whoſe breath is in his noſtrils. As
+alſo to the terror and aſtoniſhment of all thoſe, who lean upon the
+broken ſtaff of Egypt, and truſt in Horſes, and ſtrengthen themſelves
+in the ſtrength of <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> and joy in the ſhadow of men; and cry
+to themſelves, <hi>The Temple of the Lord, The Temple of the Lord.</hi>
+            </p>
+            <p>By a MAN of their COUNCEL.</p>
+            <q> 
+               <p>
+                  <hi>Truly in vain is ſalvation hoped for from the hills, and
+from the multitude of mountains: Truly in the Lord our God is the ſal<g ref="char:EOLhyphen"/>vation
+of Iſrael.</hi>
+               </p> 
+               <bibl>Jer. 3.23.</bibl>
+            </q>
+            <q> 
+               <p>
+                  <hi>Nevertheleſs, I have ſomewhat againſt thee, becauſe
+thou haſt left thy firſt Love.</hi>
+               </p> 
+               <bibl>Revel. 2.4.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the day of Battel, and year of
+Slaughter. 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114649:2"/>
+            <head>To his Excellency Thomas Lord Fairfax, With all the Officers
+and Soldiers of the ARMY; And to all the Churches, viſible and outward,
+whatſoever.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency, with you
+all,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat I have heard, ſeen, and underſtood, is preſent<g ref="char:EOLhyphen"/>ed to
+you in this book; it craves your attention, becauſe it relates to you: It
+hath the boldneſs to cry aloud, and not to ſpare, to ſhew the Lords
+Hoaſt their tranſgreſſion, and the houſe of <hi>Jacob</hi> their
+ſin: It breaks the order and cuſtom of the world in courting you, and,
+clothing it ſelf with the ſpirit of Truth and burning, judges you.
+Peradventure it may be a ſtone of ſtum<g ref="char:EOLhyphen"/>bling, and a rock of offence to you,
+yea, to both the houſes of <hi>Iſ<g ref="char:EOLhyphen"/>rael:</hi> The Spirit would have it ſo;
+for you muſt fall, that you may riſe; dye, that you may live; be nothing,
+that you may be all. You have much glory to loſe, ſome of you the Glory,
+Rule, and Go<g ref="char:EOLhyphen"/>vernment of the World; others of you the Glory and Rule of the
+Church, and yet many of you have a greater Glory to poſſeſs: Your wood,
+hay, and ſtubble, ſhall be burnt up, you ſhall ſuffer loſs, but ye
+ſhall be ſaved, yet ſo, as by fire: Your loſs ſhall be your gain, and
+your ſhame, your praiſe; yet for the preſent you will be ſo ſhameful
+as to cover the glory of the Lord, rather then you will lie in the duſt, and
+part with what you have by ſtrength obtained.</p>
+            <gap reason="missing" resp="#OXF" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114649:3"/>
+            <head>The Epiſtle general, To all the Kings Party, with the
+Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts, Presbyters, Indepen<g ref="char:EOLhyphen"/>dents, Anabaptiſts, Seekers,
+&amp;c. To men of all ſects, of all degrees, of all conditions where and
+what<g ref="char:EOLhyphen"/>ſoever.</head>
+            <opener>
+               <salute>Dear Hearts,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F the Lord rend that vail of fleſh, wherewith you are covered,
+what is herein ſpoken ſhall be plain and eaſie to you; it ſhall be
+yours, as well as mine: It contains in it a fire that will try every mans work,
+it refines and purifies the Sons of <hi>Levi,</hi> that all their offerings may
+be in Righteouſneſs: You may behold in it the voyce that cries, <hi>All
+fleſh is as graſs, and all the goodlineſs of man as the flower of the
+field.</hi> It preaches forth the Love of God, and drives poor creatures to an
+abhorring of themſelves in their murdering, de<g ref="char:EOLhyphen"/>ſtroying and revengeful way,
+<hi>That the Wolf may lye down with the Lamb, and the Lyon eat ſtraw with the
+Ox, and no hurting in all the holy Mountain.</hi> I have to do in this book
+with the Army and Churches, which contains a great part of the Nation, and the
+Sentence of the Lord paſſed againſt both, and Judgment begun at the
+Houſe of God. I have preſented it to your view, that you may know the
+deſign of God in theſe latter days, <hi>viz.</hi> to plead with all
+fleſh, and throughly to purge his floor. Ye that are men of ſeveral forms,
+dreſſed with ſeveral attire, different and various in Religion, 
+<pb facs="tcp:114649:4"/>may yet unite, and be one in the Spirit and Power of Jeſus, when
+he ſhall come ſtealing upon you, and plunder you of all that you now, or
+have, gathered to your ſelves, and lead you from one dispenſation to
+another, from ſtrength to ſtrength, and from glory to glory, until you eat
+bread, and drink wine now in the Kingdom of God. The Lord is in your
+darkneſs, and provides for you in the wilderneſs. Therefore, firſt, to
+you that are the Royal Party, know this, The King is an Image of God, a lively
+figure of the King of Kings; but you in your darkneſs are enthralled to the
+Idea and outward form, yea to the weakneſs and imperfection of it, and
+thereby kept from that truly Noble and Royal Spirit, that freely flows from the
+Lord (the repreſented) to all the Royal Prieſthood. You ſo much deifie
+the ſoveraignty of a man, that only bears forth what of God is given in, that
+you rob the Lord, the mighty, not giving and bowing to that All-might, though
+the curſe is threatned, and before you ex<g ref="char:EOLhyphen"/>ecuted on thoſe that make fleſh
+their arm: Yea, this Power, when ſometime exerciſed againſt the Child
+Jeſus, is by you juſtified, and no room in the Inn when he is brought forth
+among you. And to you the Biſhops and Prieſts, who are a dark figuring out
+of the true Biſhop and over-ſeer of the ſoul, yet you feed your ſelves,
+and not the Flock, preaching and praying in a formal customary way. ſtinting
+your ſelves and others in all your duties, going not in your ſelves, nor
+ſuffering thoſe that will, endeavoring to quench the ſpi<g ref="char:EOLhyphen"/>rit that riſes
+up in oppoſition to thoſe tyes and bonds that leads it captive. And to you
+the Preſbyterian Party, that, to be more ex<g ref="char:EOLhyphen"/>cellent then your fathers, make
+long prayers, having great ſhews of Reformation, and greater zeal, and larger
+actings for God, then thoſe before you; yet ſit down ſatisfied with your
+ſelves, having thus painted over the Sepulchres of your fathers, and with
+them aſſemble your power and authority to ſtop that River of God which
+flows to the ſons of men, if not running in your channel. Yea, you of the
+Independent Party, to write a fairer Copy then all theſe, ſe<g ref="char:EOLhyphen"/>parate from
+their ſociety, as unclean and unholy, and yet aſſuming to your ſelves
+the priviledg of an outward holy ſeed, and all that ſpring from your unholy
+holy loins, to be intereſſed with your ſelves in theſe promiſes,
+though the Lord hath pronounced Judgment a<g ref="char:EOLhyphen"/>gainſt all outward and carnal
+marks and diſtinctions, as thereby differencing the Lords People,
+diſclaiming all right not derived from that truth and glory within you, which
+is truth, and needs not <pb facs="tcp:114649:4"/>that any man teach you. And you the
+Anabaptiſts, to make a ſtricter ſeparation then theſe before you, begin
+from and of your ſelves to ſet up that carnal &amp; outward way which God
+hath thrown down, and to ſet up <hi>John</hi> the Baptiſt in the room of
+Christ, though he tells you his Ministry and Doctrine muſt decreaſe, and
+Christs increaſe; yet will you ſit down under the cloudineſs and
+twi-light of <hi>John,</hi> and not aſſemble to the Day and Morning,
+Chriſt, who is riſen upon the earth: Yea, though the Spirit, by the
+fore-mentioned Meſſenger, tells you, This is not the Reformation, but a
+figure of it, and after him cometh he whoſe ſan is in his hand, and
+throughly purge his floor; yet do you ſit down on this ſide Reformation,
+not approaching to that Houſe made without hands eternal in the Hea<g ref="char:EOLhyphen"/>vens:
+Yea, others of you, paſſing through all theſe, arrive at a ſeek<g ref="char:EOLhyphen"/>ing
+what hath been, and not reaching forth to that which is before. Some of you are
+content with the borders of <hi>Canaan,</hi> and think not of entering in and
+poſſeſſing the good Land, expecting <hi>Moſes,</hi> that angered the
+Lord at the waters of ſtrife, a Miniſter of weakneſs, to lead you to your
+Reſt; and not Jeſus, who is a Saviour and De<g ref="char:EOLhyphen"/>liverer from being captive to
+any thing below God whatſoever: and therefore ſtay on this ſide
+<hi>Jordan,</hi> not believing the waters ſhall divide, and be cut off before
+the Ark of the Covenant of the Lord, born by the Melchiſedec of God:
+Therefore all of you whatſoever that are working in your ſix days under
+ſundry and ſeveral diſ<g ref="char:EOLhyphen"/>penſations, tiring and wearing out your ſelves
+in your own vanities, ſhall lie down in ſorrow, and be bitten by the
+Serpents in the Wil<g ref="char:EOLhyphen"/>derneſs, until you paſs over into the Lord your Canaan,
+and Day of Reſt, where you ſhall all of you reſt from your labours, and
+your works follow: And this Day of the Lord is coming upon you, it is near at
+hand, even at the doors; the fulneſs of the Gentiles co<g ref="char:EOLhyphen"/>ming in, and all
+Iſrael ſhall be ſaved. And in this Day, who ſo will not come up of all
+the families of the earth to Jeruſalem, to worſhip the King, the Lord of
+Hosts, upon them ſhall be no rain, there ſhall be a famine in all their
+dwellings, a drying up of all their gifts, parts, excellencies,
+righteouſneſs, praying, reading, preaching; yea all that they have be taken
+away: For the Day of the Lord is up<g ref="char:EOLhyphen"/>on all the proud, and upon all that are
+lifted up, and upon all that being taken up into this high Mountain, a figure
+of the true, ſay, Come, let us build three Tabernacles, let us never move
+from this ſtation, let us never go beyond <hi>Moſes</hi> his legal and
+carnal admini<g ref="char:EOLhyphen"/>ſtrations, <pb facs="tcp:114649:5"/>let us retain what we have, and ſeek
+not to attain what we have not. O let not this mind be in any of you, leſt
+the Day of the Lord come upon you, and your oyl being out of your lamps, and
+you not ready, are ſhut out of doors, and caſt into the fire that burn<g ref="char:EOLhyphen"/>eth,
+and never goeth out. The ſinners in Zion are afraid, Who ſhall dwell with
+devouring fire? Who ſhall dwell with everlaſting burnings? The clean hands
+and upright heart: Therefore ceaſe from man, whoſe breath is in his
+noſtrils; wait under your diſ<g ref="char:EOLhyphen"/>penſations, enquire under your old fabrick,
+and in the deſolations thereof for him that ſhall make all things new, and
+then ſhall I be</p>
+            <closer>
+               <signed>Yours, new in the Kingdom.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="1" facs="tcp:114649:5"/>Fire from Heaven, Falling upon the preſent
+<hi>ARMY</hi> and <hi>CH<g ref="char:V">Ʋ</g>RCHES;</hi> OR, TWO <hi>WORDS</hi> from the
+<hi>LORD</hi> To Both.</head>
+         <div n="1" type="part">
+            <head>Firſt, to the Army.</head>
+            <p>YOu have had many words from the <hi>Lord,</hi> many ſweet
+invitations, tenders, embraces, and kiſſes from the <hi>God</hi> of the
+whole earth: You have been dandled upon <hi>his knees,</hi> and gently led by
+<hi>his right hand;</hi> but yet, with <hi>Jeſurun,</hi> have you waxed
+ſat, and kicked. They have been to you either <hi>words of contempt</hi> and
+<hi>reproach,</hi> or of <hi>momentary ex<g ref="char:EOLhyphen"/>cellency</hi> and <hi>good,</hi> like
+the <hi>morning dew,</hi> that by the <hi>glorious ſun</hi> of outward good
+and proſperity, have waſted and conſumed a<g ref="char:EOLhyphen"/>way. Yet behold <hi>one
+kiſs</hi> more, <hi>one cord of love</hi> more, drawing you; peradventure the
+laſt <hi>word of good</hi> you ſhall have. I am at firſt to rebuke you,
+then to adviſe you. In the <hi>reprehenſion</hi> of you, I ſhall tell you
+what you are, <hi>viz.</hi> The <hi>executioners</hi> of <hi>Gods wrath</hi>
+and <hi>vengeance;</hi> you are men converſant in the <hi>lower-moſt parts
+of the earth,</hi> in <hi>hell,</hi> the place of <hi>Gods wrath;</hi> You are
+<hi>Gods ſword,</hi> and it is in <hi>your hand</hi> to execute
+<hi>wrath</hi> upon the <hi>Heathens:</hi> You are skilled in the <hi>waſting
+Kingdoms, burning Cities, Towns <pb n="2" facs="tcp:114649:6"/>and Villages,</hi> but not in
+the <hi>repairing the breaches that are broken down,</hi> nor <hi>cloſing the
+gaps that are made,</hi> nor <hi>raiſing up it ruines.</hi> The <hi>way of
+peace</hi> you have not known, you have declined the <hi>ſteps</hi> that lead
+to that <hi>bleſſed centre,</hi> the <hi>foundations</hi> of <hi>love and
+peace</hi> are not founded and bottomed in <hi>your hearts,</hi> therefore no
+marvel the <hi>buildings</hi> appear not: <hi>Love</hi> and <hi>goodneſs,
+meekneſs</hi> and <hi>gentleneſs,</hi> croſs your deſigns of
+<hi>greatneſs, pomp, glory, ſafety</hi> and <hi>ſecurity:</hi> You cannot
+make <hi>ſalvation</hi> your <hi>walls and bulwarks;</hi> You cannot ſing
+(the <hi>Day of the Lord</hi> is not yet come upon you) <hi>we have a ſtrong
+City, and yet without gates:</hi> You cannot ſee <hi>Jeruſalem</hi>
+inhabited as a Town without walls; You cannot march forth like the
+<hi>virgins</hi> of <hi>Zion</hi> in their <hi>dances;</hi> nor, with <hi>Noahs
+dove,</hi> return with an <hi>olive leaf</hi> in your <hi>mouth.</hi> You have,
+for many years, faced the <hi>Nation,</hi> with a <hi>ſharp glittering
+ſword</hi> in <hi>your hands,</hi> executing <hi>vengeance,</hi> but have not
+appeared in the <hi>majesty</hi> and <hi>brightneſs</hi> of <hi>God,</hi> and
+thereby gathered them up in<g ref="char:EOLhyphen"/>to <hi>him.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But you may object, and ſay, <hi>Why, what can we
+do? have we a Will of our own thus to act forth that glory and bright<g ref="char:EOLhyphen"/>neſs of
+God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No, in no wiſe; <hi>It is not in him that
+willeth, nor in him that runneth, but in God that ſheweth mercy.</hi> But you
+pre<g ref="char:EOLhyphen"/>tend it is <hi>God</hi> that acts you, and carries you forth to act for the
+<hi>People,</hi> and to be a <hi>wall</hi> between <hi>them</hi> and
+<hi>ruine,</hi> and upon this account you break through all
+<hi>oppoſition,</hi> and anſwer what ever is objected againſt <hi>your
+actions,</hi> being in themſelves (as you your ſelves confeſs) unlawful:
+You pretend you are not <hi>mercenary</hi> and <hi>ſervile</hi> in the
+<hi>work</hi> you do, but <hi>free</hi> and <hi>volunteer,</hi> and all is for
+<hi>God</hi> and the <hi>People,</hi> otherwiſe you would leave off. A
+company of <hi>hypocrites,</hi> and <hi>carnal Chriſtians,</hi> you are, that
+plainly act the contrary. Hath not <hi>God,</hi> by a <hi>mighty hand</hi> of
+his own and through an unexpected way, made <hi>you</hi> this day the
+<hi>lords</hi> and <hi>rulers</hi> of the <hi>Nation,</hi> that all freely or
+forcedly pay <hi>tribute</hi> unto <hi>you,</hi> ſerve and bow to
+<hi>you?</hi> Is not the <hi>great Councel</hi> of the <hi>Nation</hi> your
+<hi>Coun<g ref="char:EOLhyphen"/>cel,</hi> your <hi>Election?</hi> Are not all their <hi>actings,</hi>
+and what ever is by them brought to the <hi>birth,</hi> that which hath been
+firſt begotten, and bred within <hi>you?</hi> Have not <hi>you</hi>
+preſcribed a <hi>pattern</hi> for the <hi>removal of the King,</hi> and
+<hi>judgment upon his party,</hi> and the <hi>houſe of Lords</hi> to be
+<hi>uſeleſs,</hi> and they <hi>oppreſſing creatures?</hi> and have 
+<pb n="3" facs="tcp:114649:6"/>not the <hi>great Councel</hi> writ after it? Nay, are not
+<hi>you</hi> ſoared ſo high, that now we may truly ſay, <hi>If any of the
+people of the Na<g ref="char:EOLhyphen"/>tion are in captivity, if any Saint afficted, it is you that
+afflict and oppreſs them?</hi> either becauſe you will have it ſo, or
+neglect the re<g ref="char:EOLhyphen"/>lieving of them, though you may and can. All <hi>your pretences,
+Oaths</hi> and <hi>Covenants</hi> have preached forth thus much to us; if the
+<hi>Lord</hi> ſhould ever ſet us up in <hi>authority,</hi> O how would we
+relieve the <hi>oppreſſed,</hi> &amp; help the <hi>fatherleſs!</hi> What
+a <hi>joy</hi> would we be to the <hi>righteous,</hi> and <hi>terror</hi> to
+the <hi>wicked?</hi> How would we have ſepa<g ref="char:EOLhyphen"/>rated between the
+<hi>precious</hi> and the <hi>vi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e?</hi> And this have the <hi>people</hi> long expected from
+<hi>your hands,</hi> but behold <hi>oppreſſion, erneſty</hi> and
+<hi>revenge,</hi> ſlaying the <hi>innocent</hi> and <hi>righteous ones,</hi>
+whom <hi>God</hi> would have kept alive. You have diſcovered the
+<hi>covering</hi> of <hi>Judah,</hi> and treacherouſly ſlain your
+<hi>friend</hi> and <hi>brethren,</hi> and given up <hi>Judah</hi> to the
+<hi>ſword,</hi> and <hi>Iſrael</hi> to <hi>captivity:</hi> And in that day
+did the <hi>Lord of hoaſts</hi> call to <hi>weeping,</hi> and to
+<hi>mourning,</hi> and to <hi>baldneſs,</hi> and to <hi>girding with
+ſackcloth,</hi> and behold, <hi>joy</hi> and <hi>gladneſs, ſlay<g ref="char:EOLhyphen"/>ing
+oxen</hi> and <hi>killing ſheep, eating fleſh</hi> and <hi>drinking wine,
+giving gifts</hi> and <hi>taking rewards;</hi> and thus your are feaſted with
+the <hi>blood of the righteous,</hi> and drunk with their blood, until <hi>you
+fall</hi> and ne<g ref="char:EOLhyphen"/>ver <hi>riſe</hi> again. Behold, <hi>Tythes,</hi> the
+<hi>great oppreſſion</hi> of the <hi>Nation,</hi> with its treble damages
+recoverable of the <hi>People,</hi> if refuſed, though <hi>you</hi> rule, and
+<hi>your own conſciences,</hi> with <hi>others,</hi> are againſt it, yet
+will <hi>you</hi> have it ſo: Who would have thought that <hi>you</hi> would
+have maintained ſuch a <hi>company of Prieſts,</hi> whom <hi>God</hi> (as
+you know and ſay) hath ſpued cut of <hi>his mouth,</hi> and yet that
+<hi>you</hi> ſhould ſup<g ref="char:EOLhyphen"/>port their <hi>Diana,</hi> and nouriſh thoſe
+<hi>dark places of the Land,</hi> called and reputed of many <hi>the two eyes
+of the Land,</hi> the <hi>fountain</hi> and <hi>ſeed-plots</hi> of all
+<hi>good learning,</hi> and become <hi>Doctors, Masters</hi> and
+<hi>Fellows</hi> in <hi>Babels arts</hi> and <hi>ſciences,</hi> bringing
+<hi>ſtone, timber,</hi> and <hi>morter</hi> to the <hi>building</hi> that
+<hi>City</hi> and <hi>Tower,</hi> whoſe <hi>top</hi> may reach to
+<hi>Heaven.</hi> But this is a <hi>fruit</hi> of the <hi>blood</hi> of the
+<hi>Saints</hi> which you have ſhed, and a <hi>return of praiſe</hi> to the
+<hi>Holy One,</hi> who, in his <hi>deſcenſion upon men,</hi> was crucified
+by <hi>you:</hi> Nay, how can you ſuffer <hi>faithful members</hi> to be
+excluded the <hi>Houſe,</hi> for profeſſing and aſſerting <hi>the
+pure Divinity of God,</hi> no way mixt or compounded? That <hi>God</hi> is not
+<hi>three,</hi> but <hi>one,</hi> and not <hi>many gods,</hi> as <hi>you</hi>
+in your <hi>imaginations</hi> think: That there is no ſuch thing in
+<hi>God</hi> (though to men) as <hi>Father, Son,</hi> and <hi>Spirit,</hi> but
+all <hi>one</hi> in <hi>God,</hi> though not in <pb n="4" facs="tcp:114649:7"/>
+               <hi>man,</hi>
+and is thereby onely <hi>diſtinct to men,</hi> and that to the <hi>darkneſs
+of men,</hi> not to the <hi>light of God within them,</hi> which reads
+<hi>God</hi> un<g ref="char:EOLhyphen"/>der another <hi>notion;</hi> for that <hi>Soul</hi> beholds him
+all <hi>love, excellency,</hi> and <hi>goodneſs,</hi> and this in all his
+ways, <hi>to all, in all, upon all,</hi> and that this <hi>God</hi> neither is
+or can be <hi>divided,</hi> not admitting a <hi>ſeam</hi> in his
+<hi>garment:</hi> Nay, what <hi>enmity</hi> is there in <hi>your
+ſpirits,</hi> or at leaſt in <hi>your actions</hi> to <hi>Papiſts,</hi>
+not ſuffering <hi>them,</hi> or <hi>men</hi> in <hi>groſs dark<g ref="char:EOLhyphen"/>neſs,
+viz.</hi> the <hi>Prelates,</hi> who, being in the <hi>dark,</hi> and under
+<hi>cloudy dispenſations of God,</hi> ſhould therefore have the <hi>going
+forth</hi> of the <hi>morning</hi> among them, that they might be brought out
+of <hi>darkneſs</hi> into <hi>light,</hi> and won by that <hi>love and
+meekneſs,</hi> that is or ſhould be in <hi>you,</hi> to <hi>them;</hi> yea,
+I ſay, not admitting <hi>them</hi> into the <hi>liberty</hi> and
+<hi>freedom</hi> with <hi>your ſelves:</hi> I know <hi>your hearts,</hi> you
+could many of you tolerate <hi>Papiſts</hi> and <hi>Prelates</hi> among you,
+but that the <hi>Nation</hi> look upon <hi>them</hi> under ſuch a <hi>groſs
+notion,</hi> that you, to pleaſe men, dare not do it, thinking hereby
+<hi>your repute</hi> and <hi>credit</hi> among men will fall to the ground, and
+be eſteemed by many ſuch your ſelves. And therefore, to retain and keep
+up <hi>your glory</hi> among men, will you break the <hi>rules of love,
+mercy,</hi> and <hi>goodneſs,</hi> and make <hi>ſhipwrack</hi> of <hi>your
+own</hi> and <hi>others conſciences:</hi> Yea, you can command the
+<hi>People</hi> to <hi>faſt,</hi> and reſtrain the <hi>Nation</hi> from
+<hi>work<g ref="char:EOLhyphen"/>ing on thoſe days,</hi> annexing <hi>penalties</hi> (as formerly) to
+the <hi>breach</hi> thereof, thereby bringing in thoſe <hi>legal</hi> and
+<hi>Moſaical Fastings, Jewiſh</hi> and <hi>National,</hi> which
+<hi>Chriſt,</hi> by a more <hi>pure</hi> and <hi>glorious
+miniſtration,</hi> hath aboliſhed: Nay, let me diſcover what I know of
+you, <hi>viz.</hi> That <hi>many,</hi> if not the moſt of you, are wholy
+<hi>dead in your ſelves</hi> to <hi>faſtings</hi> of that <hi>nature,</hi>
+your <hi>ſouls</hi> loathing it, but onely that the <hi>Nation</hi> may judg
+you to be <hi>religious,</hi> and <hi>zeal<g ref="char:EOLhyphen"/>ous</hi> to make every one <hi>your
+proſelite,</hi> and not deem you to be for ſuch an <hi>univerſal
+toleration</hi> of all <hi>ſects</hi> and <hi>ſorts of men</hi> in their
+<hi>re<g ref="char:EOLhyphen"/>ligion,</hi> until the <hi>day</hi> and <hi>pure glory</hi> of
+<hi>God</hi> break forth, cauſing all <hi>darkneſs</hi> to ſly before it,
+yea, turning the <hi>Sun</hi> into <hi>darkneſs,</hi> and the <hi>Moon</hi>
+into <hi>blood,</hi> not admitting any thing, ſave this <hi>pure light,</hi>
+then to be, and converſe among men: I ſay, for this <hi>cauſe</hi> do you
+thus diſſemble with the <hi>Nation,</hi> and ſeem as if you accounted the
+<hi>peoples fastings</hi> a <hi>ſacrifice</hi> that <hi>God</hi> accepts.</p>
+            <p>
+               <hi>Object.</hi> But you may peradventure ſay (through the
+<hi>hardneſs</hi> and <hi>obduracy</hi> of your <hi>hearts,</hi>) <hi>This is
+ſedition, and a ſtirring up, and enraging the people againſt
+you.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:114649:7"/>
+               <hi>Anſw.</hi> Though I might, or could by
+<hi>means</hi> procure it, I would not lift up, or have a <hi>ſword</hi>
+lifted up againſt <hi>you,</hi> nor a <hi>hand</hi> in <hi>wrath</hi> and
+<hi>indignation;</hi> The <hi>worſt miſchief</hi> I would do you, were it
+in my power, would be to <hi>create a heart of love and peace a<g ref="char:EOLhyphen"/>mong you,</hi>
+to <hi>engrave upon all your hearts,</hi> and <hi>upon the hearts of the whole
+Nation, an entire perfect union and agreement in God,</hi> and a <hi>beating of
+your ſwords into plow ſhares, and your ſpears into pruning hooks, and to
+learn war no more. I</hi> am for <hi>peace,</hi> but <hi>you</hi> are for
+<hi>war,</hi> and in times of <hi>peace</hi> ſhed blood; therefore hath the
+<hi>Lord</hi> prepared you a <hi>cup</hi> to drink, and <hi>you</hi> ſhall
+drink deep of it: <hi>Death</hi> ſhall ſwallow <hi>you</hi> up alive; and
+the <hi>grave</hi> ſhall open for <hi>you,</hi> and <hi>hell</hi> ſhall be
+<hi>your portion,</hi> becauſe they that have killed <hi>with the
+ſword,</hi> ſhall be killed <hi>by the ſword,</hi> and they that have
+<hi>led into captivity,</hi> ſhall <hi>go into captivity:</hi> This is a
+<hi>ſweet word,</hi> wait for the <hi>fulfilling</hi> of it. The
+<hi>Lord</hi> will deſtroy you all, the <hi>Lord</hi> will give you blood to
+drink, you ſhall drink and be drunken with your own blood. It is a myſtery,
+and you, it may be, underſtand it not, and therefore admire it; Remember you
+not the <hi>voyce</hi> of the <hi>Church</hi> of old, <hi>In the way of thy
+judgments have we waited for thee, O Lord?</hi> Great is the <hi>myſtery of
+godlineſs,</hi> thus it is:</p>
+            <p>You have ſhed the blood of <hi>thouſands, thouſands,</hi> you
+have have waſted <hi>Cities, Countries, &amp;c, God</hi> hath provided a
+<hi>double portion</hi> for you, and both of <hi>judgment</hi> and
+<hi>deſtruction;</hi> The one is to deſtroy your <hi>fleſh,</hi> to give
+it up to the <hi>ſword:</hi> A ſecond, to cut off <hi>two parts of you</hi>
+out of the <hi>land of the living.</hi>
+            </p>
+            <p n="1">Firſt, The <hi>Lord</hi> will deſtroy your
+<hi>fleſh,</hi> and make a <hi>great ſlaugh<g ref="char:EOLhyphen"/>ter</hi> among you, even of
+your <hi>reaſon, wiſdom, judgment, credit, glory, repute,</hi> &amp; all
+that is <hi>fleſh</hi> in you, to lay your <hi>glory</hi> in the
+<hi>duſt,</hi> to turn your <hi>wiſdom</hi> into <hi>folly,</hi> to burn up
+your <hi>righteouſneſs, holineſs,</hi> to give you a <hi>new heart,</hi>
+to deſtroy that <hi>warlike, envious,</hi> and <hi>bloody ſpirit</hi> that
+is in you, to create <hi>peace</hi> in all your <hi>dwellings,</hi> and
+<hi>love</hi> in all your <hi>hearts,</hi> not ſuffering any thing of the
+<hi>earth</hi> to have a <hi>being</hi> among you, in no wiſe admitting
+<hi>fleſh</hi> and <hi>blood</hi> entrance into the <hi>Kingdom of Heaven.
+God</hi> is coming upon you as a <hi>thief,</hi> in the <hi>night</hi> of your
+beating your <hi>fellow ſervants,</hi> eating and drinking until you are
+drunk, and will plunder you of all you have, and caſt you into <hi>outer
+darkneſs;</hi> you have a <hi>will</hi> within, and among you, that rules and
+reigns, this will the <hi>Lord</hi> ſteal from you in the <hi>night,</hi> and
+leave you none at all, but <hi>his will</hi> ſhall do <hi>all,</hi> and carry
+<pb n="6" facs="tcp:114649:8"/>on <hi>all,</hi> and be in <hi>you all:</hi> And thus doth
+the <hi>Kingdom of God</hi> come, not with <hi>obſervations,</hi> ſaying,
+<hi>Lo, here is Chriſt, or lo, there; for behold it is within you:</hi> and
+thus ſhall the <hi>Kingdom of God</hi> take place, and all <hi>Kingdoms</hi>
+bow, and come in to it. This is the onely <hi>King</hi> and <hi>Kingdom</hi>
+that ſhall be ſet up, and there ſhall be but <hi>one</hi> in all the
+<hi>earth:</hi> This is the time when <hi>God</hi> takes to him his great
+<hi>power</hi> and <hi>reign,</hi> and then ſhall you be aſhamed of all
+your <hi>doings:</hi> And as you have cut off much of the
+<hi>unrighteouſneſs of men,</hi> and <hi>groſs corruption of the
+world;</hi> ſo ſhall the <hi>Lord,</hi> in this day, cut off all your
+<hi>righteouſneſs, holineſs, goodneſs, beauty,</hi> and
+<hi>comelineſs,</hi> leaving you none at all, but you ſhall be <hi>the
+vilest a<g ref="char:EOLhyphen"/>mong men.</hi>
+            </p>
+            <p n="2">2. There is a ſecond <hi>judgment</hi> (which is proper to
+you) and that you ſhall finde mentioned <hi>Zech.</hi> 13.7, 8. <hi>Awake, O
+ſword, a<g ref="char:EOLhyphen"/>gainſt my ſhepherd, and againſt the man that is my fellow; and
+I will turn my hand upon the little ones: And it ſhall be, that in all the
+land, ſaith the Lord, two parts thereof ſhall be cut off, and dye, but the
+third ſhall be left therein.</hi> Note the word, <hi>his hand ſhall be
+turned againſt the little ones: Two parts</hi> of <hi>you,</hi> and <hi>two
+parts</hi> of the <hi>Land</hi> and <hi>Nation,</hi> ſhall be <hi>cut
+off</hi> and <hi>deſtroyed: God</hi> hath uſed you in this work, you have
+wounded, deſtroyed, and ſlaugh<g ref="char:EOLhyphen"/>tered multitudes of people, <hi>Captains,
+mighty men,</hi> and <hi>nobles</hi> have you cut off in one day. Thus the
+<hi>Day of the Lord</hi> is begun, and you ſee it not; this is the <hi>day of
+Judgment,</hi> and you ſay, <hi>it is a<g ref="char:EOLhyphen"/>far off; Joel</hi> 3.12, 13, 14.
+<hi>Let the Heathen be wakened, &amp;c.</hi> and Verſ. 14. <hi>Multitudes,
+multitudes, in the valley of deciſion; for the Day of the Lord is neer, in
+the valley of cutting off. God</hi> hath rouzed up the <hi>Nation</hi> out of
+that <hi>careleſs</hi> and <hi>ſecure poſture</hi> in which they lay:
+<hi>God</hi> is a diſquieting the whole earth; <hi>multitudes</hi> in the
+<hi>valley of ſlaughter: people</hi> gather and aſlemble to this
+<hi>de<g ref="char:EOLhyphen"/>ſtroying Angel; People</hi> muſter their <hi>forces,</hi> and march
+along with this <hi>deſtroyer,</hi> they delight in blood: and thus the
+<hi>people</hi> are conſumed for their parts, and deſtroyed out of the
+<hi>Land,</hi> and <hi>blood toucheth blood:</hi> And yet in theſe is the
+deſign of <hi>God</hi> carryed on, in a ſlaughtering the <hi>pride of all
+fleſh,</hi> in putting a <hi>final period</hi> to the <hi>credit, repute,
+excellency, goodneſs, hopes,</hi> and <hi>comforts</hi> of <hi>man,</hi>
+blaſting all that <hi>outward glory,</hi> becauſe the <hi>Spirit of the
+Lord hath blown upon it;</hi> and now every man beginneth to be weary and
+a<g ref="char:EOLhyphen"/>ſhamed of himſelf and of all others, and doth hug and embrace 
+<pb n="7" facs="tcp:114649:8"/>to them a <hi>naked, pure,</hi> and <hi>divine God;</hi> yea,
+cry out, <hi>creatures</hi> have been our <hi>deſtruction,</hi> men have
+undone us: we have built our <hi>hope, joy,</hi> and <hi>peace</hi> upon the
+<hi>ſands;</hi> O how have we bin deceived! O how vile is every man? how have
+we called <hi>good, evil,</hi> and <hi>evil, good?</hi> O how have we
+<hi>deified</hi> thoſe, which had any <hi>good, holines,</hi> or
+<hi>righteouſ<g ref="char:EOLhyphen"/>neſs</hi> dwelling in them? burying <hi>God,</hi> the
+<hi>goodnes</hi> and <hi>holineſs</hi> wrapt up in that <hi>earth,</hi> and
+dwelling in thoſe <hi>houſes of clay;</hi> and <hi>heathen-like</hi> have
+changed the <hi>truth of God</hi> into <hi>a lye,</hi> worſhipped and
+ſerved the <hi>creature</hi> more then the <hi>Creator, God bleſſed for
+ever.</hi>
+            </p>
+            <p n="2">2. Now, as I have rebuked you, <hi>viz.</hi> that
+<hi>evil</hi> in you, am I, in the ſecond place, to counſel you, and
+therein <hi>not I,</hi> but <hi>the Lord:</hi> And this is two-fold; 1. To
+caſt off your <hi>filthy polluted garments,</hi> to wear your <hi>garments of
+blood</hi> no longer. 2. To become a <hi>white Army,</hi> clothed in <hi>white
+linnen,</hi> therein following the <hi>Prince of Peace.</hi>
+            </p>
+            <p n="1">Firſt, Caſt off your <hi>filthy polluted garments,</hi>
+ſhake your ſelves from the <hi>duſt,</hi> ſtrip your ſelves of your
+<hi>bloody garments;</hi> leave off contending, you have a long time been
+diſciplined in <hi>war,</hi> to the ruine of your ſelves and others: And as
+you have ruined and killed others, ſo the <hi>ſword of the Lord</hi> hath
+killed <hi>you,</hi> and <hi>ſtained</hi> your <hi>pride and glory,
+ſelf-intereſt, ſelf-preſervation,</hi> the <hi>outward liber<g ref="char:EOLhyphen"/>ties</hi>
+of <hi>you</hi> and the <hi>people:</hi> You muſt dye to your <hi>outward
+peace</hi> and <hi>liberty,</hi> and lay down your lives, and thereby take it
+up again; yea, I mean, all you, that are the <hi>little ones of Chriſt,</hi>
+ſhall thus have power, as well as the <hi>man Chriſt,</hi> to lay down your
+lives, and take them up again. Come with me, <hi>my friends</hi> and <hi>dear
+hearts,</hi> come with me from the <hi>Lions den,</hi> from the <hi>fury,
+wrath, deſtruction,</hi> and <hi>violence</hi> that have dwelt in your
+<hi>borders;</hi> Come, beat your <hi>ſwords</hi> into <hi>plow
+ſhares,</hi> ſay to the <hi>people, We will no more oppreſs you, we will
+no more fight you:</hi> O <hi>my hearts,</hi> let the <hi>oppreſſed
+lord</hi> go free, you have taken the <hi>Lord</hi> captive for theſe many
+years, your <hi>God</hi> and <hi>King</hi> on high is your <hi>priſoner;</hi>
+he preaches <hi>peace</hi> to the <hi>Heathens,</hi> and
+<hi>compaſſion</hi> to the <hi>Nations,</hi> and yet you take <hi>him</hi>
+captive, and you preach <hi>blood, contention,</hi> and make <hi>laws</hi> to
+deſtroy every man that diſlikes your <hi>government,</hi> it muſt be
+called <hi>treaſon,</hi> that you might thereby kill all that do oppoſe
+you. What ſtill ſhed<g ref="char:EOLhyphen"/>ing of blood? Are you not wearyed in your vanities?
+When, when ſhall nothing binde but love?</p>
+            <p>
+               <hi>Object. But if we ſhould thus leave off ſighting, our
+Liberties, <pb n="8" facs="tcp:114649:9"/>and all that we have ſtriven for to obtain
+theſe many years will fall to the ground, our righteous cauſe dye, and the
+people return either to their former bondage, or to Anarchy and Confuſion,
+and the godly party become the prey of their and the Lords enemies.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In anſwer hereto, I could firſt tell you, (that
+which eve<g ref="char:EOLhyphen"/>ry man knows,) That though <hi>you rule,</hi> the <hi>people</hi>
+ſtill remain in <hi>bondage,</hi> and the <hi>righteous ſouls are cut
+off,</hi> and many <hi>Saints</hi> af<g ref="char:EOLhyphen"/>flicted and perſecuted for their
+<hi>zeal</hi> to <hi>God,</hi> and worſhipping him according to their
+<hi>Conſciences,</hi> which may ſufficiently diſ<g ref="char:EOLhyphen"/>cover your <hi>pretended
+zeal</hi> for <hi>God,</hi> and how little <hi>truth</hi> there is in it, but I
+forbear: And in anſwer to your ſcruple, know, That the <hi>way</hi> to the
+<hi>pure</hi> and <hi>upright Government of the great God,</hi> among and
+towards men, is, by <hi>Anarchy</hi> and <hi>Confuſion.</hi> This doctrine is
+ſtrange, yet true, That the only way <hi>God</hi> hath declared he will uſe
+in the promoting and carrying on that deſign of <hi>greatneſs</hi> and
+<hi>Majeſty</hi> he is intended to advance in the <hi>world,</hi> is, by
+depopulating, defacing and waſting <hi>Kingdoms</hi> and <hi>People,</hi> and
+this deſign of <hi>God</hi> hath been actually carryed on among us.
+<hi>God</hi> hath haſtened to <hi>this work</hi> of his in our days, and his
+<hi>Charet wheels</hi> have run ſwiftly this way. When we build a <hi>new
+houſe,</hi> if there be an <hi>old one in the room,</hi> we firſt pull that
+down, and make it a <hi>deſolation,</hi> and then lay a <hi>ſure
+foundation</hi> for a more <hi>glo<g ref="char:EOLhyphen"/>rious one:</hi> Thus doth <hi>God, Your
+houſe</hi> (ſaith he) <hi>ſhall be left unto you deſolate.</hi> The
+<hi>people</hi> boaſted in the <hi>Temple, God</hi> had a <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> to
+<hi>build;</hi> Well, ſaith <hi>God, I will firſt deſtroy yours,
+deſolation</hi> ſhall firſt attend <hi>your worldly, earthly Temple:
+God</hi> hath now a <hi>pure glorious Houſe</hi> to build, a <hi>pure
+Government,</hi> to which the <hi>Nations</hi> muſt all bow, and bring their
+<hi>glory</hi> to: Now the <hi>Saints,</hi> that are <hi>under dark and cloudy
+dispenſations,</hi> ſay, <hi>Come let us go<g ref="char:EOLhyphen"/>vern and rule, and we will rule
+for the Lord;</hi> but they, alas, by reaſon of their <hi>darkneſs,</hi>
+patch and peece up a <hi>Government,</hi> made up of the <hi>Laws and
+Statutes</hi> that our <hi>forefathers</hi> in their days (not
+<hi>partakers</hi> of our <hi>light,</hi> or rather the <hi>Lords</hi> in us)
+formed and made; and their <hi>Reformation</hi> is a retreating back to
+<hi>preſtine purity,</hi> but not a going forward preſſing after that
+<hi>purity</hi> and <hi>glo<g ref="char:EOLhyphen"/>ry,</hi> which <hi>eye hath not ſeen, nor ear
+heard, nor entred into the heart of man to conceive.</hi> For further
+teſtimony ſee <hi>Iſai.</hi> 24. the whole Chapter, eſpecially 20, 21,
+22, 23 <hi>verſes, Chap.</hi> 26.20, 21. <hi>Chap.</hi> 65.15, 16, 23.
+<hi>Zeph.</hi> 3.8, 9. where you may plainly read, that when <pb n="9" facs="tcp:114649:9"/>the <hi>Lord</hi> will do <hi>his great work,</hi> when all ſhall
+<hi>confeſs to him,</hi> and <hi>every knee bow,</hi> when his <hi>glory
+ſhall be lifted up,</hi> and <hi>peace</hi> and <hi>love</hi> ſhall dwell
+in the <hi>hearts</hi> of <hi>men</hi> and <hi>women,</hi> and no <hi>hurting
+in Gods holy mountain,</hi> That <hi>deſtruction</hi> ſhall go before, and
+the <hi>high</hi> and <hi>lofty ones</hi> ſhall be <hi>brought low;</hi> a
+<hi>conſumption</hi> will the <hi>Lord</hi> bring, and make a ſhort
+<hi>work</hi> in all the <hi>earth.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But it may be ſaid, and that by honeſt hearts,
+<hi>That An<g ref="char:EOLhyphen"/>archy and Confuſion is that asperſion which the world caſts
+upon the Saints, by reaſon of the changes the Lord makes in the Go<g ref="char:EOLhyphen"/>vernment
+of the Nation, and the people of God conceive themſelves wronged in it; and
+will you own that which they diſclaim?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I am againſt <hi>Anarchy</hi> utterly, as that
+which hath no <hi>Or<g ref="char:EOLhyphen"/>der</hi> and <hi>Government,</hi> and the
+<hi>diſſolver</hi> of all <hi>Order;</hi> but yet as it leads to the
+ſetting up of a <hi>pure, righteous,</hi> and <hi>everlaſting
+Go<g ref="char:EOLhyphen"/>vernment,</hi> I quietly and contentedly ſubmit to it, and behold the
+ſtrange and marvellous actings of the <hi>Lord</hi> in it, and there
+feaſting my ſelf with thoſe <hi>dainties</hi> that are ſecretly
+involved in thoſe <hi>black</hi> and <hi>dark dispenſations,</hi> and in
+this <hi>confuſion</hi> finde a <hi>ſweet and bleſſed Order</hi> begun
+in me, and behold the <hi>Lord</hi> bringing it forth to the <hi>view</hi> of
+the <hi>world,</hi> that <hi>every eye may ſee him,</hi> and all <hi>ſhut
+their mouths at him.</hi>
+            </p>
+            <p n="2">2. That you would remain <hi>naked</hi> and
+<hi>ſenſleſs</hi> before the <hi>Lord</hi> and <hi>men,</hi> to be as
+<hi>helpleſs creatures:</hi> You could be content, many of you, peradventure
+to be naked before the <hi>Lord,</hi> but not before <hi>men;</hi> O then,
+ſay you, will the <hi>world</hi> trample upon us, and we ſhall be
+deſtroyed, and that without remedy, and make our ſelves a <hi>reproach and
+contempt to all Nations,</hi> when we ſhall thus freely and voluntarily
+reſign up <hi>our ſelves, Wives, Children, City, Coun<g ref="char:EOLhyphen"/>try,</hi> and
+<hi>Nation</hi> into the <hi>Fathers hands;</hi> and ſo to have no <hi>Wife,
+Child, Servant,</hi> or <hi>Habitation;</hi> yea, no <hi>Huſband,
+Parent,</hi> or <hi>Master,</hi> but what is in the <hi>Fathers
+reſignment:</hi> To have no <hi>Keeper of the Vineyard,</hi> but the
+<hi>Lord,</hi> no <hi>Watchman,</hi> but the <hi>Watchman of Iſrael;</hi> to
+have no <hi>bulwarks,</hi> and no <hi>walls,</hi> but <hi>Salvation, Freedom,
+and Liberty from on high;</hi> to have a <hi>ſtrong City,</hi> and yet
+without <hi>Gates:</hi> To be preſented to the <hi>Lord</hi> and <hi>men</hi>
+as <hi>creatures undone,</hi> broken in their <hi>estates, glory,</hi> and
+<hi>re<g ref="char:EOLhyphen"/>pute,</hi> having nothing to live upon, but what the <hi>Ravens,</hi> by
+the <hi>Word of the Lord,</hi> bring morning and evening to them, behold<g ref="char:EOLhyphen"/>ing
+all the <hi>veſſels of the earth</hi> broken to pieces, and not a
+<hi>potſheard</hi> 
+               <pb n="10" facs="tcp:114649:10"/>left to take up <hi>coals</hi> withal.
+You muſt loſe <hi>all,</hi> part with <hi>all,</hi> have <hi>nothing,</hi>
+be <hi>nothing</hi> to <hi>God,</hi> to the <hi>world:</hi> Have nothing, but
+what the <hi>barrel of meal,</hi> and <hi>cruſe of oyl</hi> affordeth; a
+<hi>famine</hi> be<g ref="char:EOLhyphen"/>ing in the <hi>Land,</hi> upon the <hi>Prophet, Teacher,
+mighty men,</hi> and <hi>men of war,</hi> upon the <hi>Captains,</hi> and
+<hi>men of ſtrength,</hi> and no <hi>bread</hi> but in the <hi>Lord,</hi> nor
+<hi>water,</hi> but in <hi>this living fountain.</hi>
+            </p>
+            <p n="2">2. My counſel is, That you would come forth clothed with
+<hi>pure</hi> and <hi>white linnen,</hi> with the <hi>man God,</hi> or the
+<hi>God-man</hi> in your <hi>arms,</hi> dreſſed with <hi>divine
+attire,</hi> clothed with <hi>embrodered garments,</hi> yea, of
+<hi>needle-work,</hi> of all curious <hi>workmanſhip;</hi> and this
+<hi>work</hi> is not <hi>yours,</hi> but the <hi>Lords,</hi> in which you are
+onely to wait until the <hi>Lord</hi> bring forth his <hi>name</hi> in you; in
+which <hi>day</hi> you ſhall go forth, bearing to men the <hi>meekneſs,
+quietneſs, peace, love,</hi> and <hi>goodneſs</hi> of <hi>God:</hi> as you
+did once adminiſter to your brethren <hi>de<g ref="char:EOLhyphen"/>ſtruction, miſery,
+wrath,</hi> and <hi>judgment,</hi> and as you <hi>ſoar</hi> up into
+<hi>God;</hi> ſo ſhall you, in the <hi>majeſty</hi> of this <hi>God,</hi>
+heal and cure the <hi>Nations,</hi> even by the <hi>leaves</hi> that this
+<hi>tree of life</hi> ſhall yeeld: and thus ſhall ye become <hi>men</hi> of
+another <hi>garb, men</hi> of another <hi>dreſs,</hi> and you ſhall be
+named by a <hi>new name,</hi> which the <hi>Lord our God</hi> ſhall name;
+<hi>new Jeruſalem</hi> ſhall be written upon you, and there ſhall be no
+<hi>goings out,</hi> not a <hi>thought</hi> of <hi>man,</hi> not a
+<hi>word</hi> of <hi>man,</hi> that <hi>name</hi> ſhall be mentioned no more,
+unleſs as an abhorring to all the <hi>Iſrael</hi> of <hi>God:</hi> The
+<hi>earth</hi> ſhall ceaſe to yeeld <hi>her fruit, man</hi> ſhall give
+forth no longer, he ſhall be <hi>emptineſs</hi> unto the <hi>Lord,
+va<g ref="char:EOLhyphen"/>nity</hi> ſhall be written upon every thing that remains, and all things
+ſhall ſound forth <hi>God,</hi> a <hi>trumpet</hi> ſhall not blow that
+cannot eccho forth the <hi>Lord;</hi> and this ſhall be the <hi>great
+conqueſt,</hi> and the <hi>great reward,</hi> That we our ſelves are
+conquered, and brought in <hi>ſub<g ref="char:EOLhyphen"/>jection</hi> to the <hi>Lord:</hi> That
+whereas, after all our <hi>victories</hi> and <hi>ſuc<g ref="char:EOLhyphen"/>ceſſes,</hi> there
+ſtill remained <hi>Creature</hi> and <hi>God,</hi> now there remaineth after
+this <hi>ſucceſs</hi> and <hi>victory, God,</hi> and <hi>nothing of
+Creature:</hi> And whereas you were the <hi>fear of men,</hi> when you were
+gift with a <hi>ſword;</hi> ſo now, you are <hi>ſwordleſs</hi> and
+<hi>manleſs,</hi> you are the <hi>love</hi> and <hi>good will</hi> of the
+<hi>people:</hi> and what you are, you are to the <hi>Lord,</hi> and for the
+<hi>Lord,</hi> not to, nor for <hi>your ſelves.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But you may object and ſay, <hi>This is a happy
+time, were it in our days, were it to be fulfilled upon us, but the time is not
+yet.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All that <hi>dye,</hi> ſhall <hi>live,</hi> and
+all that <hi>live,</hi> ſhall <hi>dye:</hi> They <pb n="11" facs="tcp:114649:10"/>that now
+have neither <hi>houſe, land, credit, profit, repute, glory, wife, childe,
+brother,</hi> and <hi>ſiſter,</hi> but having had <hi>all,</hi> do now part
+with <hi>all,</hi> ſhall find <hi>all theſe</hi> in <hi>God;</hi> And they
+that have theſe, as you have in abundance, ſhall loſe <hi>all,</hi> and
+be without <hi>all:</hi> You that ceaſe from your <hi>own honor,</hi> ſhall
+enjoy far more in <hi>God,</hi> and ceaſe as to your <hi>offices</hi> among
+<hi>men,</hi> ſhall obtain greater in <hi>God,</hi> and from a <hi>common
+Soldier,</hi> ſhall become a <hi>Captain,</hi> and from a <hi>Cap<g ref="char:EOLhyphen"/>tain,</hi>
+a <hi>General,</hi> and from a <hi>General,</hi> to be <hi>One</hi> with the
+<hi>great God of Heaven and Earth,</hi> who is <hi>King of Kings,</hi> and
+<hi>Lord of Lords:</hi> And for the time, behold it is at hand, <hi>Summer</hi>
+is neer, even at the door, for the <hi>Fig tree</hi> putteth forth her
+<hi>green figs,</hi> and the <hi>Vines,</hi> with the <hi>tender Grapes,</hi>
+give a <hi>good ſmell;</hi> every <hi>crea<g ref="char:EOLhyphen"/>ture</hi> hath a <hi>ſweet
+ſmell</hi> of <hi>God</hi> in it, <hi>God</hi> is written in <hi>lively
+cha<g ref="char:EOLhyphen"/>racters</hi> upon every <hi>creature</hi> in <hi>heaven</hi> and
+<hi>earth:</hi> There is in all theſe, more or leſs, a <hi>giving</hi> and
+<hi>reſigning</hi> up to the ſweet and gra<g ref="char:EOLhyphen"/>cious <hi>dispoſe</hi> of the
+<hi>Lord;</hi> As the <hi>Lord</hi> paſſes before them, ſo are they
+aſhamed and confounded in <hi>themſelves,</hi> for <hi>when he appear<g ref="char:EOLhyphen"/>eth,
+who can <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>an<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> By which you may know, the <hi>Day of the
+Lord</hi> draws neer, therefore ſay not, <hi>it is afar off,</hi> for it is
+neer, and ſhall overtake you, even ere you are aware, and your
+<hi>ſouls</hi> ſhall be made like the <hi>charets of Aminadah.</hi>
+            </p>
+         </div>
+         <div n="2" type="part">
+            <pb n="12" facs="tcp:114649:11"/>
+            <head>A Second WORD TO THE CHURCHES.</head>
+            <p>YOu have a <hi>name</hi> that you live, you have the <hi>image</hi>
+and <hi>repreſentation</hi> of <hi>God</hi> amongſt <hi>you;</hi> you
+aſſume to <hi>your ſelves</hi> the name of the <hi>Churches of God,
+Chur<g ref="char:EOLhyphen"/>ches of the Gospel,</hi> of <hi>clear light,</hi> and yet live in the
+<hi>darkneſs</hi> and <hi>cloudineſs</hi> of your <hi>own ſpirits:</hi>
+You have made <hi>fleſh</hi> and <hi>forms</hi> your <hi>habitation,</hi> you
+have <hi>offered</hi> upon every <hi>mountain,</hi> and <hi>ſacrificed</hi>
+under every <hi>green tree,</hi> and <hi>bowed</hi> to <hi>graven images:</hi>
+You have in truth ſo hug'd and embraced the <hi>outmost</hi> and
+<hi>lower<g ref="char:EOLhyphen"/>moſt dispenſations</hi> of <hi>God,</hi> as you will not, nor
+durſt not leave them for the <hi>enjoyment</hi> of a <hi>pure</hi> and
+<hi>naked God:</hi> You have known <hi>Chriſt after the fleſh,</hi> and
+have eat and drunk with him in this <hi>fleſhly way,</hi> you have ſeen the
+<hi>miracles</hi> that he hath wrought, and the <hi>wonders</hi> he hath done
+among men, and you by him have repent<g ref="char:EOLhyphen"/>ed, and turned from your own <hi>works of
+righteouſneſs</hi> to the <hi>righ<g ref="char:EOLhyphen"/>teouſneſs of God,</hi> as thus held
+forth unto you: And you have had much <hi>ſweetneſs</hi> and
+<hi>comfort</hi> under all theſe, for the <hi>Lord</hi> hath lived in
+<hi>them:</hi> Now, ſaith the <hi>Lord</hi> unto you, <hi>Behold, I go to my
+Fa<g ref="char:EOLhyphen"/>ther, I withdraw from the creature, and aſcend into my own glory, into my
+pure ſelf; I leave the earth, I will abide no more in the Temple, I will
+forſake my dwelling place:</hi> Note the word, <hi>God</hi> doth ſometimes
+<hi>leave his dwelling place;</hi> I have made my <hi>abode</hi> and dwelt in
+<hi>Water, Bread,</hi> and <hi>Wine,</hi> in the <hi>obſervation of 
+<pb n="13" facs="tcp:114649:11"/>days,</hi> in <hi>praying, faſting, reading, writing,
+preaching, hearing;</hi> I will now leave them all. O then <hi>ſorrow</hi>
+fills your <hi>hearts,</hi> and you begin to weep and lament, ſeeing the
+<hi>fleſh of Chriſt</hi> cruci<g ref="char:EOLhyphen"/>fied before you, hung between two
+<hi>theeves;</hi> but his <hi>Holy One</hi> can<g ref="char:EOLhyphen"/>not <hi>dye,</hi> nor <hi>ſee
+corruption,</hi> but his <hi>fleſh</hi> is abaſed, ſhamed, diſgra<g ref="char:EOLhyphen"/>ced;
+the <hi>Lord</hi> gives up thoſe <hi>garments</hi> and <hi>veſtures,</hi>
+wherewith he was clothed, to the <hi>moth</hi> to devour, to the <hi>enemy</hi>
+to make a prey of; and the <hi>worldly Chriſtian</hi> parts his
+<hi>garments,</hi> and caſts <hi>lots</hi> for them, and <hi>rejoyces</hi> in
+the <hi>ſpoil,</hi> and <hi>embalms</hi> the <hi>body</hi> of the
+<hi>Lord</hi> with <hi>ſweet ſpices,</hi> though the <hi>ſoul</hi> and
+<hi>life</hi> is departed from it, yea, though it be but a meer
+<hi>carcaſs,</hi> the <hi>ſpirit</hi> of <hi>Chriſt</hi> leaving it, yet
+this <hi>poor man</hi> loves it as much as ever, delights and pleaſes
+him<g ref="char:EOLhyphen"/>ſelf in it; and <hi>Chriſt</hi> being dead and buried, you go to his
+<hi>Sepul<g ref="char:EOLhyphen"/>chre,</hi> wherein he is layd, ſeeking for him, and
+<hi>Mary</hi>-like ask the <hi>Angels</hi> where <hi>your Lord</hi> is; they
+anſwer, <hi>He is not here, he is riſen;</hi> why ſeek ye the
+<hi>living</hi> among the <hi>dead?</hi> You go to <hi>faſting</hi> and
+<hi>prayer,</hi> and enquire, ſaying, <hi>Did you ſee the Lord?</hi> No,
+ſay they, <hi>He is not here;</hi> He was here for <hi>three days,</hi> but
+<hi>he is riſen and gone:</hi> Then you go from <hi>one Church</hi> to
+<hi>another,</hi> from <hi>ſociety</hi> to <hi>ſociety,</hi> and enquire,
+but <hi>he is not here,</hi> ſay they, <hi>he is riſen:</hi> Then you go to
+the <hi>rudiments</hi> of the <hi>world,</hi> to <hi>elementary things,</hi>
+and they give you the ſame anſwer, ſaying, <hi>He was here,</hi> but
+<hi>he is riſen,</hi> behold the <hi>linnen clothes</hi> and the
+<hi>napkin</hi> in which he lay; you may ſee his <hi>grave-clothes,</hi> his
+<hi>outward garments,</hi> his ſeveral and ſundry <hi>appearances,</hi> but
+<hi>he is gone, he hath left them all:</hi> Then you begin to be afraid, you
+know not what to do, now you have loſt <hi>your Lord,</hi> and there is
+nothing now remaining to take <hi>pleaſure</hi> in, and to enjoy, but a few
+<hi>grave-clothes,</hi> ſome old caſt<g ref="char:EOLhyphen"/>off <hi>garments;</hi> no place now
+to live in, but a <hi>deſolate</hi> and <hi>forſaken houſe,</hi> a
+<hi>habitation</hi> for <hi>Dragons,</hi> and a <hi>Court</hi> for
+<hi>Owls,</hi> a <hi>place</hi> which the <hi>wilde beaſts</hi> of the
+<hi>field</hi> have made <hi>their reſt.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But you may object, and ſay, <hi>We are a Church
+formed according to the pattern in the Mount, according to the Scriptures
+preſcribed by Chriſt and the Apoſtles, and in obedience to theſe we
+walk and abide.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> You are much below (even all the <hi>viſible
+Churches</hi> on <hi>earth</hi>) that <hi>pure</hi> and <hi>primitive
+order</hi> in the <hi>Apostles days;</hi> you have not that <hi>pure infallible
+doctrine</hi> to deliver as they had, nor that <hi>clearneſs</hi> of the
+<hi>Spirit</hi> poured down upon you; the <hi>Holy <pb n="14" facs="tcp:114649:12"/>Ghost</hi> not falling upon you in <hi>cloven tongues,</hi> as upon
+them: nor that <hi>oneneſs of minde,</hi> as to ſell all, and lay it down
+at the <hi>A<g ref="char:EOLhyphen"/>postles</hi> or <hi>Churches feet;</hi> you have not ſo learned
+<hi>Chriſt,</hi> you cannot do <hi>greater works</hi> then ever
+<hi>Christ</hi> himſelf did, when he was upon earth, and that becauſe
+<hi>Christ</hi> is aſcended: Yours, at the beſt, is but an <hi>earthly,
+weak, erring, imperfect Miniſtry,</hi> a <hi>worldly San<g ref="char:EOLhyphen"/>ctuary,</hi> a
+<hi>Baptiſm</hi> of <hi>Water,</hi> not of the <hi>Spirit,</hi> that which
+(as <hi>John</hi> ſaid) <hi>decreaſes,</hi> not <hi>increaſes;</hi> a
+<hi>doctrine</hi> which, becauſe of the <hi>weakneſs</hi> of it, cannot go
+beyond <hi>Repentance, Faith, Hope, Baptiſms, Reſurrection of the
+dead,</hi> and <hi>eternal Judgment,</hi> with <hi>laying on of hands;</hi> All
+which are but <hi>milk for babes:</hi> yet you are always contenting and
+ſatisfying your ſelves with ſuch a <hi>baby-condition,</hi> not going in
+your ſelves, nor ſuffering (without offence) thoſe that would; nay, you
+will not move a <hi>ſtep</hi> beyond theſe, but aſperſe, as erroneous
+and blaſphemous, all ſuch that paſs through <hi>hope</hi> and
+<hi>faith</hi> to <hi>ſight</hi> and <hi>enjoyment,</hi> through the
+<hi>Fleſh</hi> into the <hi>Spirit,</hi> and it is unſeemly to name the
+word <hi>perfection</hi> (as attain<g ref="char:EOLhyphen"/>able) among you. But further, were
+<hi>you</hi> as perfect and compleat in all things as the <hi>Apostles</hi>
+were, yet muſt <hi>you,</hi> with ſuch a <hi>Mi<g ref="char:EOLhyphen"/>niſtry</hi> and
+<hi>Church, ceaſe,</hi> and give in, for behold, a <hi>greater</hi> then the
+<hi>Apostles</hi> and <hi>Prophets</hi> is here; here is one ſtanding among
+you, whom you know and ſee not as yet, that will not own <hi>Paul,
+Peter,</hi> and <hi>John</hi> in this <hi>Apoſtleſhip,</hi> there being no
+manner of <hi>co-parner<g ref="char:EOLhyphen"/>ſhip</hi> in it; and that it may appear that the
+<hi>Apoſtolical Miniſtry</hi> and <hi>Doctrine</hi> was but to continue its
+<hi>time</hi> and <hi>age,</hi> doth <hi>Christ</hi> him<g ref="char:EOLhyphen"/>ſelf, when upon
+earth, manifeſt as much to us, <hi>Matth.</hi> 28.20. <hi>Teaching them to
+obſerve all things that I have commanded you, and behold, I am with you
+alway, or every day, even to the con<g ref="char:EOLhyphen"/>ſumption of this age;</hi> So the
+<hi>Greek</hi> reads it, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the
+ſingular number, not in the plu<g ref="char:EOLhyphen"/>ral number, as in other places, where it is
+uſed <hi>for ever,</hi> the word is,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and <hi>Peter</hi> bears
+witneſs hereto, 2 <hi>Pet.</hi> 3.12, 13. <hi>Looking for, and haſtening
+unto the coming of the day of the Lord, wherein the heavens being on fire,
+ſhall be diſſolved, &amp;c. Nevertheleſs, we, according to his
+promiſe, look for new heavens, and a new earth, wherein dwelleth
+righte<g ref="char:EOLhyphen"/>ouſneſs: Peter</hi> though an <hi>Apoſtle</hi> and
+<hi>Miniſter</hi> of the <hi>Churches,</hi> and to the <hi>world,</hi> yet he
+expected a more <hi>glorious Church</hi> and <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi> for you
+muſt not underſtand by <hi>heavens</hi> and <hi>elements</hi> is 
+<pb n="15" facs="tcp:114649:12"/>here meant thoſe viſible to us, as if they ſhould be
+burnt up; or <hi>heavens</hi> and <hi>earth,</hi> to be that which you behold,
+and live in; but <hi>Churches</hi> and <hi>Miniſtry, Doctrines</hi> and
+<hi>teachings</hi> of and by <hi>men;</hi> Yea <hi>John</hi> will lead you to
+the knowledge of this, <hi>Rev.</hi> 21.3, 22, 23. <hi>Behold, the tabernacle
+of God is with men, and God himſelf ſhall be with them, &amp;c. And I ſaw
+no temple therein; for the Lord God Almighty, and the Lamb, are the temple of
+it.</hi> He is a <hi>weake man,</hi> and a <hi>weak Chriſtian,</hi> that is
+under the <hi>Miniſtry</hi> of the <hi>A<g ref="char:EOLhyphen"/>poſtles,</hi> that hath any
+<hi>man</hi> to teach him, or is under any <hi>teaching</hi> of <hi>God</hi> by
+<hi>men.</hi> And my <hi>dear friends,</hi> and <hi>brethren,</hi> let me tell
+you without offence, that you are not under the <hi>ſecond Covenant,</hi> but
+under a <hi>Covenant</hi> of the <hi>outward man,</hi> under the
+<hi>Compact</hi> of the <hi>Letter,</hi> untill you ceaſe teaching one
+another, and preaching one to the other, but are taught of <hi>God</hi> onely:
+So runs the terms of that <hi>Covenant,</hi> obſerve it <hi>Hebr.</hi> 8.10,
+11. In that <hi>Covenant,</hi> when perſons are under it, they ſhall not
+ſay one to another, <hi>bro<g ref="char:EOLhyphen"/>ther, know the Lord; this is the voice of the
+Lord, that is not: This the Lord ſaith, that man ſaith; this is truth, that
+is error.</hi> No, in this <hi>Covenant</hi> you ſhall know <hi>God
+perfectly, fully,</hi> and <hi>clearly.</hi> O <hi>ſtrange doctrine,</hi> and
+<hi>horrid blasphemy,</hi> will ſome of you, <hi>my brothren,</hi> ſay; but
+I will bear with the <hi>fruits</hi> of your <hi>darkneſs.</hi> And now I am
+to deliver to you; Firſt, a <hi>word</hi> of <hi>ter<g ref="char:EOLhyphen"/>ror</hi> and
+<hi>judgment:</hi> and ſecondly of <hi>counſel</hi> and
+<hi>advice.</hi>
+            </p>
+            <p n="1">Firſt, <hi>Terror,</hi> and <hi>Judgement;</hi> I am to tell
+you, the <hi>Lord</hi> hath curſed the <hi>Figtree,</hi> he hath cauſed
+your <hi>gifts</hi> to <hi>wither,</hi> you <hi>tree</hi> yeelds no more
+<hi>fruit,</hi> your <hi>root</hi> is without <hi>ſap,</hi> your
+<hi>teachings</hi> without <hi>life,</hi> your <hi>miniſtrations</hi>
+affording no <hi>peace;</hi> either, I ſay, none at all, but
+<hi>dejection</hi> and <hi>casting down;</hi> or elſe <hi>peace
+tempora<g ref="char:EOLhyphen"/>ry,</hi> becauſe of the <hi>uncertainty</hi> of your <hi>doctrine,
+peace</hi> mixed with <hi>enmity</hi> and <hi>breakings out;</hi> and a
+<hi>love</hi> with feare, when <hi>perfect love</hi> caſts out <hi>fear,</hi>
+for <hi>fear</hi> hath <hi>torment;</hi> A <hi>Saint</hi> and yet a
+<hi>ſinner,</hi> when he that is horn of <hi>God</hi> ſinneth not. You
+ſhall call in this old <hi>Church-way,</hi> and not be <hi>heard, cry,</hi>
+and the <hi>Lord</hi> will <hi>turn</hi> from you; you ſhall ſly at the
+<hi>rebuke</hi> of <hi>one,</hi> though you are a <hi>thou<g ref="char:EOLhyphen"/>ſand,</hi> at the
+<hi>rebuke</hi> of <hi>five</hi> ſhall ye ſlye, untill you be left as a
+<hi>bea<g ref="char:EOLhyphen"/>con</hi> upon the top of a <hi>mountain,</hi> and as an
+<hi>Enſigne</hi> on a <hi>hill.</hi> The <hi>Sun</hi> ſhall go down over
+the <hi>Prophets,</hi> and the <hi>day</hi> ſhall be <hi>dark</hi> o<g ref="char:EOLhyphen"/>ver
+them; <hi>Emptineſs</hi> and a <hi>ſhadow</hi> ſhall be written upon all
+that you <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. This <hi>Sun</hi> and
+<hi>Moon</hi> of yours ſhall be aſhamed, <hi>when the <pb n="16" facs="tcp:114649:13"/>Lord ſhall reign in mount Zion.</hi> The <hi>Lord</hi> is ſending
+<hi>leanneſs</hi> a<g ref="char:EOLhyphen"/>mong you, and a <hi>famine</hi> not of <hi>bread,</hi>
+and a <hi>thirſt</hi> not of <hi>water,</hi> but of <hi>hearing the Word of
+the Lord,</hi> and you ſhall wander from <hi>Sea</hi> to <hi>Sea,</hi> from
+<hi>Church</hi> to <hi>Church,</hi> from <hi>Society</hi> to <hi>Society,</hi>
+from <hi>Prea<g ref="char:EOLhyphen"/>cher</hi> to <hi>Preacher,</hi> from <hi>man</hi> to
+<hi>man,</hi> from <hi>brother</hi> to <hi>brother,</hi> from <hi>doctrine</hi>
+to <hi>doctrine,</hi> and ſhall not finde the <hi>Lord:</hi> you your
+ſelves ſhall ſhortly ſee this fulfilled upon you; you ſhal
+<hi>burn</hi> your <hi>books</hi> and <hi>writings,</hi> you ſhal ſee this
+<hi>mountain</hi> of yours forſaken; and thus <hi>judgement</hi> ſhall
+follow you, and a <hi>fire</hi> ſhall be kindled among you, and burn you up.
+And the <hi>Lord</hi> to make out tokens of his <hi>indig<g ref="char:EOLhyphen"/>nation</hi> againſt
+you, how he hath left <hi>you,</hi> as you have left <hi>him,</hi> and his
+<hi>glory,</hi> hath in theſe our daies viſibly diſcovered it, by a
+giving you up to the weakneſs and folly of your own <hi>hearts,</hi> which
+hath produced and effected in you, the <hi>betraying</hi> and <hi>ſhedding
+innocent blood,</hi> even the <hi>blood</hi> of thoſe whom you formerly
+honoured; ſtrengthning the hands of their <hi>oppreſſors,</hi> adding
+<hi>affliction</hi> to <hi>affli<g ref="char:EOLhyphen"/>ction,</hi> which the ſpirit of God calleth
+<hi>cruelty.</hi> In the day that the <hi>ſtrangers</hi> carried away captive
+<hi>his,</hi> even <hi>Jacobs</hi> forces; and <hi>foreig<g ref="char:EOLhyphen"/>ners</hi> entred into
+<hi>his,</hi> even the <hi>righteous gates,</hi> and caſts lots upon them;
+even <hi>thou</hi> waſt as one of <hi>them,</hi> thou ſtood'ſt in the
+<hi>croſs<g ref="char:EOLhyphen"/>waies</hi> to cut off thoſe that did eſcape: But the day of the
+<hi>Lord is near,</hi> as thou haſt done, ſhall it be done to thee; the
+reward ſhall return upon thine owne <hi>head,</hi> this <hi>innocent
+blood</hi> have <hi>you ſhed,</hi> even <hi>you,</hi> or moſt of
+<hi>you,</hi> that call <hi>your ſelves</hi> the <hi>Churches</hi> of
+<hi>God.</hi> As I do not own their boaſting in, or gathering to themſelves
+an <hi>arm of fleſh,</hi> and by a <hi>warlike way</hi> to endeavour to free
+them<g ref="char:EOLhyphen"/>ſelves, and eſtabliſh righteouſneſs in the <hi>Land:</hi> So I
+cannot but <hi>teſtifie</hi> againſt the <hi>bloody, unchriſtian-like
+thoughts,</hi> and <hi>actions</hi> that hath been manifeſted in <hi>you</hi>
+to <hi>them.</hi> And who ſhould have thought, that no ſooner could
+<hi>liberty</hi> be given you, which once were ſo enſlaved, and captived in
+and for the practiſe of your <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> that for ſo doing, you
+daily ſuffered, or in continual <hi>leopar<g ref="char:EOLhyphen"/>dy;</hi> I ſay, that you
+ſhould ſeek to enſlave and embondage others, whom you profeſſedly
+<hi>honour</hi> as <hi>righteous;</hi> ſome to <hi>God,</hi> and o<g ref="char:EOLhyphen"/>thers of
+them to <hi>men,</hi> ſave in this <hi>action.</hi> But ſweet and good is
+the <hi>hand of the Lord</hi> in this, that he might thereby make a
+<hi>diſcove<g ref="char:EOLhyphen"/>ry</hi> of <hi>you</hi> to the <hi>World.</hi> Now I ſhall
+ſhew you a few <hi>Reaſons</hi> of the <hi>judgements of the Lord</hi> thus
+falling upon you.</p>
+            <p n="1">1. Becauſe the <hi>Temple of the Lord,</hi> not the <hi>Lord
+is your glory.</hi> 
+               <pb n="17" facs="tcp:114649:13"/>Every thing that <hi>God</hi> welleth
+in, you fall down to, and ſo fall down to <hi>Angels, Saints, Men,
+Ordinances, Miniſters,</hi> and <hi>Officers,</hi> when theſe, at the
+beſt, are but <hi>Gods habitation, garments of the earth,</hi> and
+<hi>decaying vestures wherewith God cloathes himſelf.</hi> You are
+ſatisfied that you are a <hi>Church member,</hi> that you are of ſuch and
+ſuch a <hi>Congregation,</hi> that you have ſuch a <hi>Paſtor,</hi> that
+you have ſub<g ref="char:EOLhyphen"/>mitted to ſuch an <hi>Ordinance,</hi> or <hi>Ordinances.</hi>
+O this doth tickle you, I know it when I walked among you; Nay, it further
+appeares, by thoſe mean and low thoughts you have of thoſe that are not of
+<hi>your Order;</hi> ſome of you can hardly pray with them, <hi>others</hi>
+not own them as <hi>brethren,</hi> and the reſt charging them with
+<hi>diſobedience,</hi> in not walking up to thoſe <hi>withered, dead,</hi>
+and <hi>decayed things,</hi> that you ſeek to keep <hi>alive.</hi>
+            </p>
+            <p>Now as long as you remain under theſe <hi>dispenſations,</hi>
+the <hi>Lord</hi> in, and under theſe, ſhould only be your glory, 1
+<hi>Cor.</hi> 1.31. <hi>He that glorieth, let him glory in the Lord.</hi>
+            </p>
+            <p>Object. <hi>But ſome of you will ſay, Though indeed we are under
+all theſe adminiſtrations, yet we glory not in them, if we may be ſaid to
+know our own hearts, we are commanded ſo to do by God, and we dare not
+ſleight any injunction from the Lord.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I know it is here you ſtick, you cannot get off
+it. O it is a <hi>command of God</hi> and you dare not omit it. To which I
+reply.</p>
+            <p n="1">Firſt, That when God had an <hi>outward Tabernacle</hi> and
+<hi>Temple, Church,</hi> and <hi>Miniſtery,</hi> as under the <hi>Law,</hi>
+he was very <hi>exact</hi> with the <hi>people</hi> in the obſervation
+thereof, a <hi>Pin</hi> muſt not be left out, nor a <hi>Naile</hi> out of its
+place: but <hi>Looke that thou make them after the patterne which was ſhewed
+thee in the mount,</hi> Exod. 25.40. <hi>And this day ſhall you obſerve for
+ever in your generations,</hi> Exod. 12.14. <hi>And this the tenth day of the
+first month,</hi> verſ. 3. <hi>And the ſeventh year ſhould be a Sabbath
+to them, and the fiftieth year, a year of Jubile,</hi> Levit. 25.4, 11. There
+muſt be no ſwerving from the obſervation of theſe.</p>
+            <p n="2">Secondly, When the <hi>Lord</hi> leaves this <hi>houſe,</hi>
+and will build ano<g ref="char:EOLhyphen"/>ther, Cloathed with <hi>greater glory,</hi> he tyes not his
+<hi>people</hi> to the <hi>outward obſervation of things:</hi> he is not now
+as formerly <hi>exact</hi> in them: Doth not <hi>command them to be baptized
+with water, but in<g ref="char:EOLhyphen"/>to the Spirit.</hi> Chriſt tells them, <hi>They ſhall be
+baptized with the holy Ghoſt and with fire;</hi> commands that they be
+baptized into the <hi>Name of Father, Son, and Spirit:</hi> viz: into the
+<hi>power</hi> and <hi>glory</hi> 
+               <pb n="18" facs="tcp:114649:14"/>of theſe
+<hi>three,</hi> and yet <hi>one,</hi> into a <hi>clear knowledg</hi> and
+<hi>underſtand<g ref="char:EOLhyphen"/>ing</hi> of theſe: And for the <hi>Supper,</hi> doth not
+enjoyn them to the ſtrict and abſolute <hi>obſervation</hi> of it, nor
+when; as under the <hi>law,</hi> ſuch a <hi>day ſhall you obſerve the
+Paſſeover:</hi> but now, <hi>As oft as you do it, do it in remembrance of
+me,</hi> not telling them how oft they ſhould do it. But how long muſt this
+<hi>eating bread</hi> and <hi>drink<g ref="char:EOLhyphen"/>ing wine</hi> laſt? during your
+<hi>continuance</hi> in the <hi>dark,</hi> until the <hi>Lord</hi> comes, and
+be a <hi>feaſt of fat things in the ſpirit and life to you,</hi> un<g ref="char:EOLhyphen"/>til he
+be <hi>revealed</hi> from <hi>Heaven,</hi> conſuming this <hi>droſs</hi>
+and <hi>earthly knowledg</hi> within you; and then ſhall you drink no more of
+this <hi>fruit of the Vine,</hi> but drink it <hi>new in the Kingdom.</hi> You
+uſed <hi>ſigns</hi> and <hi>tokens</hi> of his <hi>death, &amp;c.</hi> had
+many <hi>letters</hi> repreſenting <hi>him,</hi> but now he is come, what
+need theſe? he is come <hi>himſelf,</hi> even his <hi>ſweet ſelf;</hi>
+nay, further, as the <hi>Lord</hi> did not then binde his <hi>peo<g ref="char:EOLhyphen"/>ple</hi> to
+<hi>outwards,</hi> ſo were they uſed by the <hi>Apoſtles,</hi> as in them
+they might become all to all, ſtoop to them, and ſpeak them in their own
+<hi>language,</hi> and as <hi>children</hi> to deal with them.</p>
+            <p n="3">3. Thoſe <hi>Churches,</hi> with their <hi>glory,
+miniſtry,</hi> and <hi>all,</hi> were to dye and wither away, apoſtatize
+and fall back, and this for <hi>time, times,</hi> and <hi>half a time,</hi> as
+the Scripture plentifully witneſſeth, and the <hi>holy City</hi> under
+foot: and when <hi>Christ</hi> cometh, ſhall he finde <hi>faith</hi> on the
+<hi>earth?</hi> And this ſhould be until the <hi>Kingdoms of this world
+become the Lords &amp; his Chriſts,</hi> and <hi>God take to him his great
+reign,</hi> yea, till the <hi>Tabernacle of God ſhall be with men,</hi> and a
+<hi>new Heaven</hi> and <hi>Earth</hi> appear, and <hi>God</hi> make all things
+<hi>new:</hi> and this is the <hi>Church,</hi> and the <hi>Ministry,</hi>
+which, the <hi>Scripture</hi> tells you, ſhall be ſet up after the
+<hi>Apostatizing days:</hi> Therefore, <hi>dear hearts,</hi> binde not your
+ſelves, where <hi>God</hi> hath not bound you; be free in what the
+<hi>Lord</hi> hath made you free.</p>
+            <p n="2">2. A ſecond <hi>Reaſon,</hi> why the <hi>judgment</hi> of
+the <hi>Lord</hi> ſhall from <hi>Heaven</hi> fall upon you, is, becauſe
+<hi>you,</hi> by reaſon of your <hi>narrow thoughts</hi> and
+<hi>apprehenſions,</hi> keep the <hi>Lord Jeſus</hi> priſoner, will not
+permit him to go any where, or dwell in any, ſave your ſelves: You are
+offended if the <hi>Lord</hi> break forth in a further <hi>manifeſtation</hi>
+of <hi>Glory</hi> to others, not of your <hi>rank</hi> and <hi>order;
+Lord,</hi> ſaith the <hi>Preſbyter, here thou muſt abide, this is thy
+dwelling place, ne<g ref="char:EOLhyphen"/>ver remove from hence:</hi> And <hi>here,</hi> ſaith the
+<hi>Independent;</hi> And <hi>here,</hi> ſaith the <hi>Anabaptiſt,
+&amp;c.</hi> Do you think that <hi>he</hi> that hath <pb n="19" facs="tcp:114649:14"/>the
+<hi>key of David, that openeth and no man ſhutteth,</hi> and <hi>ſhutteth
+and no man openeth,</hi> will become your <hi>priſoner?</hi> No, no, his
+<hi>glory</hi> he will not give to <hi>another.</hi> The <hi>Lord,</hi> if he
+rend the <hi>vail</hi> of this <hi>fleſhly Temple,</hi> and paſs through it
+into the <hi>higheſt Heavens,</hi> you will ſerpent-like wait for this
+<hi>man-childe</hi> brought forth by the <hi>woman, viz. weakneſs,</hi> that
+you may devour it; and therefore you cry out, <hi>Lo here is Chriſt, and lo
+there,</hi> and queſtion people, ſaying, <hi>Are you a member of a
+viſible Church, of what ſociety?</hi> and ſo leſſen that
+<hi>comfort</hi> and <hi>peace</hi> (or at leaſt endeavor it) that <hi>poor
+ſouls</hi> have in <hi>God,</hi> by reaſon they are not joyned to your
+<hi>ſoci<g ref="char:EOLhyphen"/>eties:</hi> But in all their <hi>afflictions</hi> he is afflicted;
+the <hi>Lord</hi> in this <hi>weak brother,</hi> or <hi>ſiſter,</hi> is
+afflicted, and beareth all he beareth: and thus you impriſon and afflict the
+<hi>Lord</hi> himſelf.</p>
+            <p n="3">3. Becauſe it is your <hi>ſhame</hi> to live upon a
+<hi>naked God,</hi> to have the <hi>Kingdom</hi> of <hi>God</hi> onely within
+you; you are unwilling to leave <hi>outward bread</hi> and <hi>wine</hi> for
+<hi>God</hi> the <hi>bread</hi> and <hi>water</hi> of <hi>life:</hi> and he
+that is aſhamed of <hi>God,</hi> of <hi>him</hi> ſhall <hi>God</hi>
+himſelf be aſhamed. What ſay you? ſhall we by men be accounted no more
+<hi>praying, faſting men, hearing</hi> and <hi>preaching men?</hi> no more to
+<hi>weep</hi> and <hi>mourn,</hi> but <hi>all tears</hi> to be <hi>wiped from
+our eyes?</hi> to obſerve no <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> but the <hi>Lord God,</hi>
+and to call him <hi>holy,</hi> a <hi>delight, honorable?</hi> not to think our
+own <hi>thoughts,</hi> nor ſpeak our own <hi>words?</hi> O this is your
+<hi>ſhame,</hi> namely to leave the <hi>water</hi> in the
+<hi>ciſterns,</hi> and that run in the <hi>channels,</hi> for that <hi>great
+river</hi> and <hi>fountain</hi> whoſe <hi>ſtreams</hi> make <hi>glad</hi>
+the <hi>City</hi> of <hi>God:</hi> It is to you a <hi>greater ſhame</hi> to
+be at your <hi>fathers houſe</hi> with the <hi>fatted calf,</hi> then in the
+<hi>Coun<g ref="char:EOLhyphen"/>try</hi> to feed <hi>ſwine,</hi> and to eat their <hi>husks:</hi>
+therefore <hi>he that helpeth ſhall fall, and he that is holpen ſhall fall
+down, and they ſhall all fail together.</hi>
+            </p>
+            <p n="2">II. A ſecond <hi>word,</hi> and that of <hi>advice</hi> and
+<hi>counſel.</hi>
+            </p>
+            <p n="1">Firſt, That <hi>you would aſſemble your ſelves to the
+Supper of the great God:</hi> and this ſaith the <hi>Angel,</hi> the
+<hi>Meſſenger</hi> of <hi>God,</hi> that ſtands and abides in the
+<hi>glory</hi> of <hi>God, Rev.</hi> 19.17. <hi>And I ſaw an Angel ſtanding
+in the Sun, and cryed with a loud voyce, ſaying to all the fowls that fly in
+the midſt of heaven, Come and gather your ſelves together unto the Supper
+of the great God:</hi> The <hi>Lord</hi> invites <hi>you,</hi> the
+<hi>great</hi> and <hi>mighty God</hi> woos you by his <hi>Meſſenger,</hi>
+by another <hi>appearance</hi> of his: My <hi>advice</hi> is, That you would
+go, tarry not; and that you may underſtand the <hi>Supper</hi> what it
+is.</p>
+            <p n="1">
+               <pb n="20" facs="tcp:114649:15"/>1. The <hi>fleſh</hi> and <hi>blood</hi>
+of the <hi>mighty men</hi> of the <hi>earth,</hi> the <hi>power</hi> and
+<hi>authority</hi> of the <hi>rulers</hi> of the <hi>world,</hi> which are
+bound in <hi>chains, Rev.</hi> 19.18. <hi>That ye may eat the fleſh of Kings,
+and the fleſh of Captains, &amp;c. Ezek.</hi> 39.18, 19. <hi>Ye ſhall eat
+the fleſh of the mighty, and drink the blood of the Princes of the earth, of
+Rams, of Lambs, &amp;c. And ye ſhall eat fat, until ye be full, and drink
+blood, until ye be drunken, of my ſacrifice which I have ſa<g ref="char:EOLhyphen"/>crificed for
+you:</hi> You ſhall fill and ſatisfie your ſelves with the <hi>judgment
+of the Lord</hi> upon the <hi>great</hi> and <hi>high-looked men</hi> of the
+<hi>earth.</hi> You ſhall ſee the <hi>Day of the Lord</hi> upon <hi>all
+fleſh,</hi> upon <hi>all might</hi> and <hi>power;</hi> you ſhall ſee all
+the <hi>pride</hi> of the <hi>earth</hi> ſtained and defaced, and this
+ſhall be your <hi>joy</hi> and <hi>rejoycing:</hi> And it ſhall then be
+ſaid, <hi>Behold, the man, the woman, that gave not the glory to God; Behold,
+end ſee, every thing, that is not pure God, defaced, hath loſt its life,
+its blood, runs to the Rocks and Mountains, there to hide themſelves.</hi> O
+<hi>bleſſed Feaſt!</hi> O <hi>ſweet Supper!</hi> no<g ref="char:EOLhyphen"/>thing remaining but
+the <hi>Holy One; Iniquity</hi> hath here an <hi>end,</hi> and <hi>the terrible
+one</hi> is here brought <hi>low.</hi>
+            </p>
+            <p n="2">2. This <hi>Feast</hi> is the <hi>fleſh of the Whore,</hi>
+an <hi>eating</hi> of <hi>her,</hi> and a <hi>burning her</hi> with
+<hi>fire:</hi> You know in the <hi>burnt-offerings</hi> under the <hi>Law,</hi>
+the <hi>fleſh,</hi> and the <hi>fat,</hi> and <hi>all,</hi> was to be
+<hi>burnt,</hi> and <hi>nothing to remain:</hi> ſo <hi>nothing</hi> is to
+<hi>remain</hi> in this <hi>burnt-offering,</hi> but the <hi>Lord:</hi> For by
+<hi>Whore,</hi> I underſtand to be any <hi>thing,</hi> or <hi>perſon</hi>
+what<g ref="char:EOLhyphen"/>ever, that you <hi>love</hi> and <hi>delight</hi> in, and go to bed to,
+ſave the <hi>pure</hi> and <hi>individeble God;</hi> any of <hi>thoſe
+Lovers</hi> that give us our <hi>bread</hi> and our <hi>water,</hi> our
+<hi>wool</hi> and our <hi>flax,</hi> our <hi>drink</hi> and our <hi>oy<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> what<g ref="char:EOLhyphen"/>ever it be, that refreſhes us
+<hi>inwardly,</hi> or <hi>outwardly,</hi> ſave <hi>God:</hi> Do you joy and
+delight in <hi>Forms,</hi> in <hi>outward Dispenſations</hi> and
+<hi>Adminiſtrations?</hi> Nay, do you delight in <hi>Chriſt</hi> as
+<hi>after the fleſh?</hi> Do you <hi>feaſt</hi> your ſelves with <hi>the
+fleſhly preſence of Chriſt?</hi> This ſhall be <hi>burnt up with
+fire:</hi> And do you <hi>eat it up,</hi> and let not <hi>ought remain?</hi>
+There is a <hi>Strumpet within you,</hi> your <hi>wiſdom,</hi> which is your
+<hi>ſnare,</hi> your <hi>knowledg, reaſon,</hi> and <hi>will,</hi> which
+will cauſe you to fall. O let <hi>all</hi> be <hi>burnt up,</hi> yea, this
+<hi>will</hi> of yours, let it not <hi>re<g ref="char:EOLhyphen"/>main</hi> until the <hi>morning,</hi>
+and it ſhall be a <hi>ſweet ſwelling ſacrifice</hi> unto the
+<hi>Lord;</hi> let your <hi>will</hi> be <hi>terminated in God,</hi> let your
+<hi>rea<g ref="char:EOLhyphen"/>ſon</hi> be <hi>the Lords reaſon,</hi> and your <hi>judgment,
+his;</hi> let <hi>this</hi> affect you, and <hi>the zeal</hi> of <hi>the Lords
+houſe</hi> even <hi>eat you up.</hi>
+            </p>
+            <p n="2">Secondly, Let me adviſe, that you go and return to your
+<hi>firſt huſ<g ref="char:EOLhyphen"/>band,</hi> 
+               <pb n="21" facs="tcp:114649:15"/>you were firſt eſpouſed
+to the Lord, well, have but <hi>one huſ<g ref="char:EOLhyphen"/>band,</hi> ſtray not from this
+<hi>man of knowledge</hi> any longer, be not a <hi>ſtranger at home;</hi>
+though you have played the <hi>harlot,</hi> yet will your <hi>huſband</hi>
+receive you. <hi>Seek the Lord, and David your King, and fear the Lord and his
+goodneſs now in theſe latter daies,</hi> Hoſ. 3.5. This is the firſt
+thing you muſt do, when you are come out of <hi>bon<g ref="char:EOLhyphen"/>dage,</hi> and out of the
+<hi>Land of Aegypt,</hi> when delivered out of the <hi>ſtrange land,</hi> ask
+for the <hi>Lord,</hi> ſeek him out, never leave untill you have found him,
+even <hi>him whom your ſoule loveth;</hi> You muſt ſeek the <hi>Lord
+God,</hi> and then <hi>Zion.</hi> If you know <hi>God perfectly,</hi> you will
+know men as they are; but this is the reaſon, <hi>men and Saints</hi> are
+ſo much deceived; becauſe they firſt ſeek the <hi>Church,</hi> and then
+<hi>Lord, men,</hi> and then <hi>God.</hi> But were you fully and prefectly
+acquainted with <hi>God,</hi> you would know men and things diſtinctly; O you
+would eaſily learn to diſtinguiſh between the <hi>light of God,</hi> and
+the <hi>darkneſs of men,</hi> between the <hi>emptineſs and vanity of
+men,</hi> and <hi>things, and fulneſs</hi> that is in <hi>God. God</hi> is
+that bleſſed key that opens the door to every creature, giving a perfect
+and diſtinct knowledge of them: creatures ſhall be no more then creatures
+to you. Did you know the <hi>Lord</hi> by theſe eſpouſals of his, were
+this the <hi>mariage day</hi> to you, it would work out all
+<hi>ſtrangenes</hi> that is in your ſouls to this <hi>God, Hoſ.</hi>
+2.17. <hi>For I will take the names of Balaam out of her mouth, and they
+ſhall no more be remembred by their names.</hi> They ſhall no more call
+<hi>God, my Lord,</hi> but my <hi>huſband, verſ.</hi> 16. There is not
+ſuch a diſcovery, ſuch an <hi>intimate understanding of ſe<g ref="char:EOLhyphen"/>crets</hi>
+between the <hi>master</hi> and <hi>ſervant,</hi> as between the
+<hi>huſband</hi> and <hi>wife.</hi> The ſervant knows nothing, but as it
+relates to his dutie and obedience, as it relates to the ſervitude he is
+under. Well, ſaith the Lord, <hi>I will free you of this bondage, you and I
+will not be ſtrangers but familiar friends. It ſhall be no more I and you,
+but you and I one; we will have one table, one houſe, one heart, one minde,
+and by the effecting this work, I will doe it.</hi>
+            </p>
+            <p n="1">Firſt, I will firſt bring you into the
+<hi>wilderneſs,</hi> I will have you a<g ref="char:EOLhyphen"/>lone, your <hi>lovers</hi> ſhal no
+more remain before me; you ſhall be where there is no <hi>path,</hi> no
+<hi>way,</hi> no <hi>Church,</hi> no <hi>Temple,</hi> no <hi>company:</hi> O,
+then ſaith God, <hi>you will be glad of company,</hi> then <hi>ſociety with
+me will be your delight; will in that day ſtep in, and ſhew my ſelf,</hi>
+and <hi>then ſhall you freely come in worſhipping and ſerving of
+me.</hi>
+            </p>
+            <p n="2">Secondly, The Lord will in this day reveale and diſcover
+himſelf <pb n="22" facs="tcp:114649:16"/>in a full and glorious manner. Your
+<hi>vailes</hi> ſhall then be <hi>rent,</hi> and your <hi>coverings
+removed;</hi> then ſhall ye ſay, <hi>Lo, this is our God, we have waited
+for him, This is the inviſible One, whom no man have ſeen, nor can ſee,
+whom fleſh and blood hath not revealed: this conſuming fire is he, this
+everlaſting burning is our huſband.</hi> O, then ſhall you loath your
+ſelves for all your <hi>abominations;</hi> you ſhall then ceaſe crying up
+that <hi>fleſhly knowledge, wiſdom, underſtan<g ref="char:EOLhyphen"/>ding, teaching,</hi> and
+<hi>hearing,</hi> which you now ſo much ſtrive after, that it ſhall be an
+abhorring to you. <hi>Iſai.</hi> 66.23, 24. <hi>And it ſhall come to
+paſs, that from one new Moon to another, and from one Sabbath to another,
+ſhall all fleſh come to worſhip before me ſaith the Lord. And they
+ſhall go forth, and look upon carcaſſes of the men that have
+tranſgreſſed againſt me: for their worm ſhall not dye, neither
+ſhall their fire be quenched, and they ſhall be an ab<g ref="char:EOLhyphen"/>horring to all
+fleſh.</hi> You ſhall go forth out of this holy <hi>City,</hi> and you
+ſhall look for the <hi>Praying, Fasting, Preaching,</hi> and <hi>Reading
+men</hi> and <hi>women,</hi> for all the carnall <hi>worſhippers,</hi> and
+you ſhall ſee no<g ref="char:EOLhyphen"/>thing but the <hi>carcaſſes</hi> of theſe men
+remaining, and they ſhall ſtink in your <hi>nostrils,</hi> and be an
+abhorring to you; For, <hi>Behold the Lord creates new heavens, and a new
+earth: and the former ſhall be remembred no more.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="23" facs="tcp:114649:16"/>
+            <head>THE POST-SCRIPT.</head>
+            <opener>
+               <salute>Reader in the Fleſh, and Diſciple in the
+Spirit,</salute>
+            </opener>
+            <p>I Was encouraged thus to write to the <hi>Army</hi> and
+<hi>Churches,</hi> becauſe <hi>Michael,</hi> the great <hi>Prince,</hi> is
+ſtanding up, and it is a time of <hi>trouble,</hi> ſuch as never was
+ſince there was a <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> and yet at this time a <hi>people</hi>
+are delivered, and they are found written in the <hi>Book:</hi> Would you know
+them, who they are? Look among the <hi>writings of the Spirit,</hi> and that
+<hi>book</hi> will diſcover them. This Book (that I have in
+<hi>weakneſs</hi> written) tells you of a <hi>time of war,
+deſolations,</hi> and <hi>forſakings of hoaſts of men, of an Army of
+brave ſpirited-men, zealous, profeſſing men,</hi> an <hi>Army,</hi> that
+hardly any Army can write after them, lifted up to <hi>Heaven,</hi> and yet
+brought down to <hi>Hell;</hi> Of <hi>Churches</hi> forſaken, and made a
+<hi>deſolation,</hi> yet <hi>reformed Churches, Candleſticks</hi> that hold
+out more then their <hi>Fathers</hi> did: Yet you hear of a <hi>people</hi>
+ſtanding upon the <hi>ſame earth</hi> and <hi>ſea,</hi> clothed with the
+<hi>Sun,</hi> and the <hi>Moon</hi> under their <hi>feet,</hi> that are at
+<hi>reſt,</hi> that are entred into <hi>Canaan,</hi> and paſſed through
+the river <hi>Jordan</hi> dry-ſhod. I have written to you, becauſe it is
+the time that <hi>men</hi> are running to and fro, and <hi>knowledg</hi> is
+increaſed, That <hi>you,</hi> the <hi>Nations,</hi> and <hi>kindreds</hi> of
+the <hi>earth, fleſhly ſocieties,</hi> may ſee the <hi>Son of man</hi>
+coming in the <hi>Clouds,</hi> and weep and wail becauſe of him: That
+<hi>you,</hi> that <hi>ſeek great things</hi> for <hi>your ſelves, glorious
+ſtructures,</hi> and <hi>buildings of men,</hi> a <hi>City</hi> made by
+<hi>hands,</hi> may know, the <hi>Son of man,</hi> the <hi>Emmanuel, God with,
+and in us, hath not in all theſe, where to lay his head.</hi> As you hear in
+this a <hi>houſe fallen,</hi> becauſe <hi>built</hi> up on the
+<hi>ſands,</hi> of a <hi>City</hi> whoſe <hi>inhabitants</hi> are
+<hi>ſick, weak, dying; men</hi> that are <hi>fleſh,</hi> and not
+<hi>ſpirit:</hi> So, if the <hi>Spirit</hi> will permit me 
+<pb n="24" facs="tcp:114649:17"/>to write again, you ſhall hear of a <hi>houſe,</hi>
+that, like <hi>Mount Zion,</hi> ſhall <hi>never be removed,</hi> and that
+becauſe it is <hi>founded</hi> on a <hi>Rock;</hi> a <hi>City,</hi> the
+<hi>inhabitant</hi> whereof ſhall not ſay, <hi>I am ſick;</hi> the
+<hi>people</hi> that dwell therein ſhall be forgiven their <hi>iniquity,</hi>
+they ſhall weep no more, <hi>God</hi> ſhall wipe away <hi>all tears</hi>
+from <hi>their eyes:</hi> There ſhall be no more thence an <hi>infant of
+days,</hi> nor an <hi>old man</hi> that hath not <hi>filled his days;</hi> the
+<hi>childe</hi> ſhall dye a hundred years old, the full age of a man, or
+more: They ſhall be <hi>all,</hi> from the leaſt to the greateſt,
+<hi>perfect in knowledg, come unto the meaſure of the ſtature of the
+fulneſs of Chriſt:</hi> But the <hi>Sinner,</hi> being an hundred years
+old, the <hi>old profeſſor,</hi> the <hi>man</hi> that hath known
+<hi>Christ after the fleſh</hi> for a whole age and more, that hath trotted
+up and down all his life af<g ref="char:EOLhyphen"/>ter <hi>Eli,</hi> the <hi>old man,</hi> the <hi>man
+Adam,</hi> the <hi>fleſh</hi> that is <hi>corrupt,</hi> ſhall be
+<hi>accurſed,</hi> ſhall, like the barren tree, <hi>wither</hi> and <hi>be
+cut down.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114649:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
